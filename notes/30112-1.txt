@@ -1,0 +1,99 @@
+30112
+History of Present Illness:
+The patient is a 6mo male with PMHx perinatal arterial ischemic stroke. Per grandma, he is still struggling with poor suck. They are supplementing feeding with G-tube feeds, but they are concerned about his nutritional status. He has frequent emesis 8-12x/day and can range from spit up to large volume. The feeds are always feed-colored, non-bilious, and non-bloody. Pediatrician started erythromycin to help with emesis, but there has been no improvement.
+His left side is more active than the right but he can use both UEs well. He is active and trying to crawl. Family deny tremors, jerking, and concern for seizure-like movements.
+Review of Systems: Infant
+GEN: no fever, no abnormal weight loss, no decrease in activity
+EYES: no eye redness/discharge
+ENT: no nose bleeding, runny nose
+CARDIO: now swelling/edema
+PULM: no shortness of breath, cough, wheezing
+GI: no vomiting, diarrhea, constipation
+GU: no change in frequency, +NG tube
+NEURO: see HPI
+ENDO: no wt loss, wt gain
+SKIN: no rashes or lesions
+MUSC: no extremity pain/deformity/swelling/redness
+Birth History: born at 38 4/7 weeks via C/S for NRFHT. Complicated by HIE and perinatal arterial ischemic stroke.
+Developmental history:
+Smiles: 2 months
+Sits: 6 months
+Bears weight: 6 months
+Social Smile: 6 months
+Past Medical History:
+HIE, LA thrombus, FTT, Pulmonary HTN, NG tube dependent
+Past Surgical History:
+None, pending G-tube placement next week
+Family Medical History:
+No history of seizures, developmental delay, intellectual disability, or other neurologic disorders.
+Social History:
+Lives with mother, sister. No smokers in the house.
+Allergies: NKDA
+Meds:
+- Vit D
+- erythromycin 200mg/5mL 1mL QID
+Physical Exam:
+Visit Vitals
+Temp	36.7 °C (98.1 °F) (Temporal)
+Ht	69 cm
+Wt	8.11 kg (17 lb 14.1 oz)
+HC	39 cm (15.35")
+BMI	17.03 kg/m²
+Smoking Status	Never Assessed
+BSA	0.39 m²
+General: Active, alert, well-appearing.
+Head: normocephalic, anterior fontanelle is open, soft, and flat, no clefts/pits/masses
+Eyes: lids open, eyes clear without drainage, conjugate gaze
+Ears: normally set, no pits and no tags
+Nose: nares patent, NG Tube in place
+Oropharynx: palate intact
+Chest: no retractions and no tachypnea
+Cardiac: acyanotic, WWP
+Abdomen: soft, non-tender
+Musculoskeletal: moves all extremities normally
+Back: spine intact, no tufts, no lesions, no dimples
+Skin: clear, no birthmarks
+Neurologic: symmetric facies, PERRL, tracks appropriately, normal tone and normal reflexes for gestational age. Moves all extremities evenly. Makes good eye contact. Cries for grandmother appropriately when held by examiner
+Imaging:
+MRI Brain: Images were reviewed at the request of the referring care team.
+Changes in the perirolandic region of the right hemisphere most likely reflect ischemic infarction with subsequent hemorrhagic transformation in a gyriform pattern. There are small amount of surrounding vasogenic edema. There is a cephalhematoma over the parietal convexity. I do not see any fracture of the overlying skull to suggest contusion. The remainder the brain is unremarkable. The dural venous sinuses are patent.
+MRA/MRV Brain:
+No venous thrombosis, no arterial abnormality
+TTE: Pulmonary HTN w/ LA/LV dilation mildly
+TTE: Interval development of RA mural thrombus
+Head U/S:
+1.  No acute intracranial hemorrhage.
+2.  The previously identified small echogenic area in the right cerebral hemisphere corresponding to the previously seen ischemic infarct with hemorrhagic transformation in the right perirolandic region is not apparent on today's study. An MRI is a more sensitive study and can be obtained for further evaluation.
+cEEG: R parietal seizures
+rEEG: R Fronto-central asymmetry, but no epileptogenic discharges
+TTE: Interpretation Summary
+Hx of pulmonary hypertension in a patient with history of hypoxic-ischemic encephalopathy who presented for evaluation for ectopie and irregular echogenicity (~12x7x6 mm) seen at the right atrial-inferior vena cava junction, for which the differential includes thrombus vs vegetation.
+Normal four chambered anatomy with normally related great arteries.
+Normal sized cardiac chambers with normal left ventricular function (EF - 65 to 74%).
+Normal RV systolic function (FAC - 34%; TAPSE - 7.54 cm/s)).
+Based on physiological tricuspid insufficiency jet velocity, the RV/PA systolic pressures are estimated to be within normal limits.
+Physiological pulmonary insufficiency is present.
+Normal proximal coronary arteries; no evidence for coronary artery dilatation or aneurysms.
+Tiny patent foramen ovale with left to right shunt.
+Tiny echo density in the RA adjacent to IVC, may be an artifact.
+No PCE
+Assessment:
+6mo old former 38 4/7-weeker born via c/s 2/2 NRFHT c/b HIE/Perinatal arterial ischemic stroke and later RA mural thrombus presents for follow-up. No further neurological complains or concerns as per family. Patient's stroke likely embolic of unknown origin. Pedi Heme hypercoagulability work-up negative and no strong family history of bleeding/clotting disorders. Likely due to perinatal insult +/- resuscitation efforts in setting of HIE. Overall he is doing well. No longer on anticoagulation, has weaned off PHB successfully without further concerns for seizures or abnormal behavior/activity. Still dependent on G-tube feeds and will follow with GI for frequent emesis. He is working with feeding therapy 2x/week.
+Stroke type: perinatal arterial ischemic stroke
+Etiology: idiopathic
+Mini-MACS: 1 - Handles objects easily and successfully. The child may have a slight limitation in performing actions that require precision and coordination between the hands but they can still perform them. The child may need somewhat more adult assistance when handling objects compared to other children of the same age.
+Pediatric Stroke Outcome Measure -
+Right sensorimotor: 0 - No impairment, normal function
+Left sensorimotor: 0 - No impairment, normal function
+Language Production: 0 - No impairment, normal function
+Language Comprehension: 0 - No impairment, normal function
+Comprehension/Behavioral: 0 - No impairment, normal function
+Total: 0
+Plan:
+Further workup: none indicated
+Stroke prevention: none indicated
+Rehab: referral to PT/OT. Getting SLP
+Re-imaging: not indicated at this time
+Anticonvulsant therapy: none indicated
+Other Concerns: none
+Follow up: in 3 months in clinic

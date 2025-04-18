@@ -1,0 +1,92 @@
+30128
+The patient is an 11 y.o. female referred for an initial evaluation in pediatric stroke clinic at the request of her pediatrician because of a recent L MCA ischemic infarction.  History is per mother and review of medical records made available. Patient initially has the flu one year ago, and a few weeks later was brought to the hospital because of altered mentation, fevers, and headache, ultimately found to have a Group A Strep Meningitis. She was in status epilepticus so was given Keppra and transferred to another city as local hospitals were full and she needed to be on a continuous EEG. She was intubated for airway protection and then showed signs of septic shock requiring pressors. cvEEG at the outside hospital did not show any epileptiform activity. She was intubated for 12 days with Neurology, Neurosurgery and ID following for the meningitis, seizures, and a subdural empyema that the primary team was concerned about. While they were evaluating, one of the teams then noticed that she was no longer responding on her right side, so they got brain imaging completed that showed a Left MCA syndrome with vessels most consistent with vasculitis. ECHO was completed with no concern of thrombus or PFO.
+After she was extubated they were able to tell she was not moving her right side and was having difficulty with words. She was struggling the most with English as it was her second language. After discharge, she went to rehabilitation where she had significant improvement in her walking and talking, but is still not back to normal. Mom is most concerned about her fatigue, as she seems to be tired all the time. She does not feel like she is back to her normal level of intelligence as she is still relearning a lot of words. She is walking but still not well. She continues to take ASA 81 and Keppra 900 BID for stroke and seizure prevention.
+Past Medical History
+- Recent meningitis
+- L MCA ischemic infarction
+Past surgical history: none
+No Known Allergies
+Medication
+•	Aspirin Low Dose 81 MG
+•	gabapentin (Neurontin) 300 MG capsule
+•	levETIRAcetam (Keppra) 1000 MG tablet
+Family History: no history of early strokes or heart conditions
+Review of Systems
+Constitutional:  Positive for activity change and fatigue. Negative for appetite change, fever and irritability.
+HENT: Negative.
+Eyes: Negative.
+Respiratory: Negative.
+Cardiovascular: Negative.
+Gastrointestinal: Negative.
+Endocrine: Negative.
+Genitourinary: Negative.
+Musculoskeletal: Negative.
+Skin: Negative.
+Neurological:  Positive for speech difficulty, weakness and headaches. Negative for dizziness, seizures, syncope and facial asymmetry.
+Psychiatric/Behavioral:  Positive for decreased concentration. Negative for dysphoric mood and sleep disturbance. The patient is not nervous/anxious and is not hyperactive.
+Physical Exam:
+Visit Vitals
+BP	104/76 (BP Location: Left arm, Patient Position: Sitting)
+Pulse	120
+Temp	36.3 °C (97.4 °F) (Temporal)
+Ht	1.506 m (4' 11.29")
+Wt	43.6 kg (96 lb 3.2 oz)
+BMI	19.24 kg/m²
+BSA	1.35 m²
+General: Active, alert, well-appearing.
+Head: Normocephalic and atraumatic.
+Hearing: Grossly intact.
+Speech: Decreased baseline vocabulary, no impediments.
+Pharynx: Mouth pink, mucous membranes moist. No tonsillar enlargement, exudate, or erythema.
+Lungs: Comfortable on room air.
+Cardiovascular: Acyanotic, good capillary refill.
+Extremities: Full ROM, no deformities
+Skin: Clear, no rashes or lesions.
+Neurologic Exam:
+Appropriately oriented to time, place, and person
+Decreased recent memory - does not remember the events over the past few months
+Attention span/concentration decreased for age
+Speech/Language: expressive > receptive aphasia; understands most commands but difficulty communicating and goes between English and Spanish
+Visual fields full to confrontation; fundi benign bilaterally (CNII)
+Pupils equal, round and reactive to light and accommodation; extraocular movements full and intact (CN III, IV, VI)
+Facial sensation and muscles of mastication normal (CN V)
+Face appears and moves symmetrically (CN VII)
+Hearing grossly intact bilaterally (CN VIII)
+Palate elevates symmetrically (CN IX)
+Shoulder shrug equal with good strength (CN XI)
+Tongue protrusion to the right, no evidence of tongue atrophy or fasciculations (CN XII)
+Sensation grossly intact
+Reflexes:
+R Triceps 1+, Biceps 1+, Brachioradialis 1+, Patellar 1+, Ankle 1+
+L Triceps 1+, Biceps 1+, Brachioradialis 1+, Patellar 1+, Ankle 1+
+Motor: decreased bulk
+Strength:
+RUE- Deltoid 4+/5, Triceps 4-/5, Biceps 4/5, Wrist flexion 4/5, Wrist extension 4/5
+LUE- Deltoid 5/5, Triceps 5/5, Biceps 5/5, Wrist flexion 5/5, Wrist extension 5/5
+RLE- Iliopsoas 4-/5, Knee extension 4+/5, Knee flexion 4-/5, Ankle dorsiflexion 5/5, plantarflexion 5/5
+LLE- Iliopsoas 5/5, Knee extension 5/5, Knee flexion 5/5, Ankle dorsiflexion 5/5, plantarflexion 5/5 Tone: normal and symmetric throughout
+Gait: normal heel, toe and tandem/ appropriate for age; no ataxia
+Coordination/Movements: circumduction with right leg
+Results/Data:
+Outside studies:  Pending MRI brain from OSH
+Assessment:
+Stroke type: Ischemic
+Etiology: Vasculitis 2/2 Meningitis
+Mini-MACS: 1 - Handles objects easily and successfully. The child may have a slight limitation in performing actions that require precision and coordination between the hands but they can still perform them. The child may need somewhat more adult assistance when handling objects compared to other children of the same age.
+GMFCS: Level 3: The patient may walk using a hand-held mobility device in most indoor settings. They may climb stairs holding onto a railing with supervision or assistance. Children use wheeled mobility when traveling long distances and may self-propel for shorter distances.  or Level 4: The patient use methods of mobility that require physical assistance or powered mobility in most settings. They may walk for short distances at home with physical assistance or use powered mobility or a body support walker when positioned. At school, outdoors and in the community the patient is transported in a manual wheelchair or use powered mobility.
+Pediatric Stroke Outcome Measure -
+Right sensorimotor: 1 - moderate impairment, decreased function
+Left sensorimotor: 0 - No impairment, normal function
+Language Production: 0.5 - minimal to mild impairment, but normal function
+Language Comprehension: 0.5 - minimal to mild impairment, but normal function
+Comprehension/Behavioral: 0 - No impairment, normal function
+Total: 2
+Plan:
+This patient is an 11 YO F with recent meningitis that resulting in a vasculitis causing seizures and a L MA ischemic infarct. She is currently recovering well with improvement in speech and right sided weakness but still not back at baseline. Would benefit from repeat brain and vessel imaging to ensure there are no further signs of vasculopathy. EEG would also be helpful to assess if there are any epileptiform discharges which would indicate a longer-term treatment with the ASMs. Given concern for fatigue post-stroke, will refer to our colleagues in PM&R to help find any medications that may help as she continues to improve.
+Further workup: MRI Brain, MRA Head/Neck, 48 hr ambulatory
+Stroke prevention: ASA 81
+Rehab: Already going to PT/OT/ST; referral to rehab docs for fatigue post-stroke
+Re-imaging: MRI Brain, MRA Head/Neck
+Anticonvulsant therapy: Continue Keppra 1000mg BID
+Other Concerns: Mom concerned about school; agree with homeschool would be better for this semester as trying to recover.
+Follow up: 4 months

@@ -1,0 +1,98 @@
+30088
+The patient is a 15 y.o. male referred for an evaluation in pediatric stroke clinic at the request of his neurosurgeon because of confirmed moyamoya syndrome.  History is per mother and review of medical records made available.
+He is doing well overall today. Denies recent illness/hospitalization, denies weakness, fatigue, head ache, difficulty walking, speech difficulties. Takes his ASA daily and denies easy bruising/bleeding. He will be starting 10th grade and his favorite subject is Math. His scar has healed and he has absolutely no headaches and has had no TIAs.
+Past Medical History
+•	C7 cervical fracture
+Surgical History: History of foreign body removal by plastics
+No Known Allergies
+Medication
+•	aspirin 81 MG EC tablet
+Social History
+Tobacco Use
+•	Smoking status:	Never
+Passive exposure:	Current (SMOKES OUTSIDE- FAMILY MEMBER)
+•	Alcohol use:	Never
+•	Drug use:	Never
+Family History
+Problem
+•	Diabetes	Mother
+•	Hypertension	Maternal Grandmother
+•	Diabetes	Maternal Grandmother
+•	Hyperlipidemia	Maternal Grandmother
+•	Hyperlipidemia	Maternal Grandfather
+•	Diabetes	Maternal Grandfather
+Review of Systems
+Constitutional:  Negative for activity change and appetite change.
+HENT:  Negative for congestion and dental problem.
+Eyes:  Negative for discharge and itching.
+Respiratory:  Negative for choking and chest tightness.
+Endocrine: Negative for cold intolerance and heat intolerance.
+Genitourinary:  Negative for difficulty urinating and dysuria.
+Musculoskeletal:  Negative for arthralgias and back pain.
+Allergic/Immunologic: Negative for environmental allergies and food allergies.
+Neurological:  Negative for dizziness and facial asymmetry.
+Hematological:  Negative for adenopathy. Does not bruise/bleed easily.
+Psychiatric/Behavioral:  Negative for behavioral problems and confusion.
+Physical Exam:
+General: Active, alert, well-appearing.
+Head: Normocephalic and atraumatic.
+Hearing: Grossly intact bilaterally
+Speech: Adequate vocabulary, no impediments.
+Nose: Pink nasal turbinates, septum is midline. No drainage or deformities.
+Pharynx: Mouth pink, mucous membranes moist. No tonsillar enlargement, exudate, or erythema.
+Lungs: Comfortable on room air, normal work of breathing
+Spine: Straight, no defects, no scoliosis.
+Extremities: Full ROM, no deformities
+Skin: Clear, no rashes or lesions.
+Neurologic Exam:
+Appropriately oriented to time, place, and person
+Mood/Affect: quiet and reserved but will interact with prompting
+Recent/remote memory appropriate for age
+Attention span/concentration appropriate for age
+Speech/Language: non-dysarthric, no impediments, fluent
+Fund of knowledge appropriate for age
+Visual fields full (CNII)
+PERRL, extraocular movements full and intact (CN III, IV, VI)
+Facial sensation normal (CN V)
+Face appears and moves symmetrically (CN VII)
+Hearing grossly intact bilaterally (CN VIII)
+Palate elevates symmetrically (CN IX)
+Shoulder shrug equal with good strength (CN XI)
+Tongue protrusion midline, no evidence of tongue atrophy or fasciculations (CN XII)
+Sensation grossly intact
+Motor: normal bulk
+Strength:
+RUE- Deltoid 5/5, Triceps 5/5, Biceps 5/5, Wrist flexion 5/5, Wrist extension 5/5
+LUE- Deltoid 5/5, Triceps 5/5, Biceps 5/5, Wrist flexion 5/5, Wrist extension 5/5
+RLE- Iliopsoas 5/5, Knee extension 5/5, Knee flexion 5/5, Ankle dorsiflexion 5/5, plantarflexion 5/5
+LLE- Iliopsoas 5/5, Knee extension 5/5, Knee flexion 5/5, Ankle dorsiflexion 5/5, plantarflexion 5/5 Tone: normal and symmetric throughout
+Reflexes: 3+ patellar bilaterally otherwise 2+ throughout
+Gait: normal casual,tandem, toe, and heel/appropriate for age; no ataxia
+Coordination/Movements: normal FTN and heel-shin; no tremor or abnormal movements
+Outside studies:  Review Prior CTA and MRI - no Ivy sign or infarction, but it looks like suzuki grade 2 or 3 on the left.
+Diagnostic Angiogram: Occlusion of proximal L M1 with delayed reconstitution into M2 (suzuki stage 3)
+TTE: small secundum ASD
+MRI Brain, head, neck w/o contrast:
+1.  Reidentified and grossly stable moyamoya changes involving the terminal left ICA and occluded left MCA M1 segment with adjacent leptomeningeal collaterals. Reestablished flow signal is seen in the distal left MCA branches and segments.
+2.  No evidence of brain parenchymal lesions.
+3.  Unremarkable noncontrast MRA neck.
+Assessment:
+Stroke type: vasculopathy - moyamoya syndrome on left. Right sided anterior circulation is normal
+Etiology: under investigation
+Mini-MACS: 1 - Handles objects easily and successfully. The child may have a slight limitation in performing actions that require precision and coordination between the hands but they can still perform them. The child may need somewhat more adult assistance when handling objects compared to other children of the same age.
+GMFCS: Level 1: The patient can walk at home, school, outdoors and in the community. They can climb stairs without the use of a railing. The patient can perform gross motor skills such as running and jumping, but speed, balance and coordination are limited.
+Pediatric Stroke Outcome Measure -
+Right sensorimotor: 0 - No impairment, normal function
+Left sensorimotor: 0 - No impairment, normal function
+Language Production: 0 - No impairment, normal function
+Language Comprehension: 0 - No impairment, normal function
+Comprehension/Behavioral: 0 - No impairment, normal function
+Total:  0
+This is a 15 year old male with moyamoya syndrome on the left - current suspected etiology is sporadic moyamoya (WES, CMA normal). It is Suzuki stage 3. He underwent L temporal artery indirect bypass to decrease his risk of stroke in the future. He will continue on ASA 81. He will follow up with neurosurgery next month prior to restarting sports. Today we also discussed that ASA treatment will likely be long-term and he will require lifelong follow-up.
+Plan:
+Stroke prevention: Continue aspirin 81mg daily and told him he should drink 2L of fluid daily. He is cleared for track/soccer by me, but needs to be cleared by neurosurgery prior to participation
+Rehab: not indicated
+Re-imaging: I'd like an MRI/MRA in 12 months, but will discuss with neurosurgery
+Anticonvulsant therapy: not needed
+Follow up: in 12 months in clinic
+

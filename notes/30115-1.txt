@@ -1,0 +1,95 @@
+30115
+Diagnosis: injury of left vertebral artery, sequela
+HPI: The patient is a 9 year old right handed male with a medical history of MVA s/p craniotomy for an open depressed skull fracture spring of last year. Patient was placed on Aspirin since the surgery. After the surgery, mom reports patient has been doing well. He did not require any physical therapy, he does not have trouble concentrating in school, and they have not noticed any focal deficits. Patient was referred by neurosurgery to determine if he needs to continue taking Aspirin. Mother would also like to discuss the CTA results and determine if he will be able to play baseball again.
+Patient states he has headaches once a month in the frontal lobe, which they blame on dehydration. He states his headaches do not require any medications, rehydration tends to abort the headache.
+Patient Active Problem List
+Diagnosis
+•	Open fracture of frontal bone with routine healing
+Surgical History
+•	CRANIOTOMY
+Medications
+•	[DISCONTINUED] aspirin 325 MG tablet
+Review of Systems
+Constitutional:  Negative for activity change and appetite change.
+HENT:  Negative for drooling and ear discharge.
+Eyes:  Negative for discharge and itching.
+Respiratory:  Negative for choking and chest tightness.
+Cardiovascular:  Negative for chest pain and leg swelling.
+Gastrointestinal:  Negative for abdominal distention and abdominal pain.
+Endocrine: Negative for cold intolerance and heat intolerance.
+Genitourinary:  Negative for difficulty urinating and dysuria.
+Musculoskeletal:  Negative for arthralgias and back pain.
+Skin:  Negative for color change and pallor.
+Physical Exam:
+Visit Vitals
+BP	113/72 (BP Location: Right arm, Patient Position: Sitting)
+Temp	36.3 °C (97.3 °F) (Temporal)
+Ht	1.512 m (4' 11.53")
+Wt	51.6 kg (113 lb 12.8 oz)
+BMI	22.58 kg/m²
+Smoking Status	Never Assessed
+BSA	1.47 m²
+Physical Exam:
+General: Active, alert, well-appearing.
+Head: Normocephalic and well healed scar.
+Ears: Canals clear.
+Hearing: Grossly intact.
+Speech: Adequate vocabulary, no impediments.
+Nose: Pink nasal turbinates, septum is midline. No drainage or deformities.
+Pharynx: Mouth pink, mucous membranes moist. No tonsillar enlargement, exudate, or erythema.
+Lungs: Comfortable on room air.
+Cardiovascular: Acyanotic, good capillary refill.
+Spine: Straight, no defects, no scoliosis.
+Extremities: Full ROM, no deformities
+Skin: Clear, no rashes or lesions.
+Neurologic Exam:
+Appropriately oriented to time, place, and person
+Recent/remote memory appropriate for age
+Attention span/concentration appropriate for age
+Speech/Language: non-dysarthric, no impediments, fluent
+Fund of knowledge appropriate for age
+Visual fields full to confrontation; fundi benign bilaterally (CNII)
+Pupils equal, round and reactive to light and accommodation; extraocular movements full and intact (CN III, IV, VI)
+Facial sensation and muscles of mastication normal (CN V)
+Face appears and moves symmetrically (CN VII)
+Hearing grossly intact bilaterally (CN VIII)
+Palate elevates symmetrically (CN IX)
+Shoulder shrug equal with good strength (CN XI)
+Tongue protrusion midline, no evidence of tongue atrophy or fasciculations (CN XII)
+Sensation grossly intact
+Motor: normal bulk
+Strength:
+RUE- Deltoid 5/5, Triceps 5/5, Biceps 5/5, Wrist flexion 5/5, Wrist extension 5/5
+LUE- Deltoid 5/5, Triceps 5/5, Biceps 5/5, Wrist flexion 5/5, Wrist extension 5/5
+RLE- Iliopsoas 5/5, Knee extension 5/5, Knee flexion 5/5, Ankle dorsiflexion 5/5, plantarflexion 5/5
+LLE- Iliopsoas 5/5, Knee extension 5/5, Knee flexion 5/5, Ankle dorsiflexion 5/5, plantarflexion 5/5
+Tone: normal and symmetric throughout
+Gait: normal heel, toe and tandem/ appropriate for age; no ataxia
+Station: negative Romberg
+Coordination/Movements: normal for age and symmetric; no tremor or abnormal movements
+Results/Data:
+Imaging:
+CTA Neck - 1.  Short segment occlusion of the proximal V3 segment of the left vertebral artery. Findings indicate traumatic injury. There is no extraluminal extravasated contrast. The left vertebral artery is nondominant.
+CTA Brain and Neck:
+1.  Persistent short segment occlusion of the nondominant left vertebral artery at the level of C2-C3, in keeping with prior trauma. The remainder of the left vertebral artery opacifies with contrast however it is diminutive in caliber and decreased in caliber compared to the initial CTA.
+2.  Remaining arteries in the head and neck are unremarkable and without evidence of vascular injury.
+Assessment:
+Stroke type:  Arteriopathy without stroke - grade IV injury of left vertebral artery C2-C3
+Etiology: Trauma
+Mini-MACS: 1 - Handles objects easily and successfully. The child may have a slight limitation in performing actions that require precision and coordination between the hands but they can still perform them. The child may need somewhat more adult assistance when handling objects compared to other children of the same age.
+GMFCS: Level 1: The patient can walk at home, school, outdoors and in the community. They can climb stairs without the use of a railing. The patient can perform gross motor skills such as running and jumping, but speed, balance and coordination are limited.
+Pediatric Stroke Outcome Measure -
+Right sensorimotor: 0 - No impairment, normal function
+Left sensorimotor: 0 - No impairment, normal function
+Language Production: 0 - No impairment, normal function
+Language Comprehension: 0 - No impairment, normal function
+Comprehension/Behavioral: 0 - No impairment, normal function
+Total: 0
+This is a 9 year old male presenting 10 months after a major trauma requiring repair of a depressed skull fracture. He was noted to have left vertebral artery injury on screening CTA at arrival, which was reevaluated now 10 months later and remains closed off. There have been very few long term studies on these cervical artery injuries on children with trauma, but given his vertebral artery remains occluded, it is very unlikely for this artery to spontaneously recanalize. Consequently, I recommend he continue aspirin, though I think it is safe to lower the dose to 81mg daily.
+Plan:
+Further workup: none at this time
+Stroke prevention: aspirin 81mg daily
+Rehab: no need - he has returned to baseline and is doing well in school.
+Re-imaging: None planned at this time. In several years it may be reasonable to image again if he'd like to try one last time to wean off of aspirin, but I think further radiation exposure outweighs the risk of taking aspirin, especially given that it is unlikely for the artery to recanalize.
+Anticonvulsant therapy: none
+Follow up: in 6 months.

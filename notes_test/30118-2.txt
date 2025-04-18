@@ -1,0 +1,76 @@
+30118
+Dx: Childhood Ischemic Stroke secondary to venous outflow obstruction from achondroplasia, Neurocognitive deficit secondary to ischemic infarction
+The patient is a 7-year- old male with achondroplasia and a history of bilateral watershed stroke secondary to acute hydrocephalus who is presenting to Pediatric Stroke Clinic for follow up evaluation of his stroke.
+He suffered watershed infarcts secondary to acute hydrocephalus. He had a programmable shunt placement afterwards and is followed by neurosurgery. He was on aspirin for 3 years after the event, and discontinued it in three years ago. He had been on keppra as well, but that was discontinued after he had a normal 23hr EEG around the same time.
+He sees me for his headaches and stroke history. They are at the 'top' of his head, mild to severe, and last a few hours, and he will usually try to sleep when he has them. He only has them once per week now, whereas they used to be 3-4 times per week. Mother has now weaned him mostly off of amitriptyline. Parents have noticed they are typically triggered by anxiety or weather changes. He had an MRI brain and spine recently which was nonconcerning.
+He continues to have attention difficulties in school, but thankfully completed a neuropsych evaluation and has an IEP in place. It was consistent with ADHD with most performance quotients in the normal to low normal range.
+Past Medical History
+•	Achondroplasia
+•	Congenital hydrocephalus
+•	S/P VP shunt
+•	Dwarf, achondroplastic
+•	Migraines
+•	Venous anomaly
+•	Language delay
+•	Ischemic stroke
+•	Hearing loss
+•	Decreased functional mobility
+•	Attention and concentration deficit
+Surgical History
+•	NASOLACRIMAL DUCT PROBING W/ INSERTION OF STENT
+•	Laminectomy With Release Of Tethered Spinal Cord
+•	Shunting Procedures
+•	TYMPANOSTOMY TUBE PLACEMENT
+Medications:
+Elavil 5mg at bedtime
+Valproic acid 250mg/5mL
+FHx: adopted, but he has achondroplasia
+Review of Systems
+Constitutional:  Negative for activity change and appetite change.
+HENT:  Negative for congestion and dental problem.
+Eyes:  Negative for discharge and itching.
+Respiratory:  Negative for choking and chest tightness.
+Cardiovascular:  Negative for chest pain and leg swelling.
+Gastrointestinal:  Negative for blood in stool and constipation.
+Endocrine: Negative for cold intolerance and heat intolerance.
+Genitourinary:  Negative for difficulty urinating and dysuria.
+Allergic/Immunologic: Negative for environmental allergies and food allergies.
+Neurological:  Negative for dizziness and facial asymmetry.
+Hematological:  Negative for adenopathy. Does not bruise/bleed easily.
+Psychiatric/Behavioral:  Negative for agitation and behavioral problems.
+GEN: awake and alert, well-nourished, crying as he currently has a headache. Short stature with typical bony features of achondroplasia
+HEENT:  no clefts/pits/masses; no dysmorphic facial features
+CHEST: equal chest rise. Breathing non labored
+HEART: acyanotic
+EXTREMITIES: normal digits, no sacral pits or dimples
+SKIN: no lesions, rash, cafe au lait spots
+NEUROLOGICAL EXAMINATION:
+MS: awake, alert, distractible. Shy but engages appropriately when asked about topics of interest (dinosaurs, bony headed fishes, other extinct megafauna)
+CN II-XII:  intact
+MOTOR EXAMINATION
+Mass:               Normal             For underlying genetic condition
+Tone:                Normal
+Strength:          Normal
+DTR’s:   2/2 throughout
+Sensation:        Intact
+Gait/Station:    Normal
+Cerebellum:     Normal
+Images of MRI brain/spine reviewed
+Assessment:
+This is a 7 year old male with a history of stroke as above following up for management of his stroke complications. At this point, it has been several years since his stroke and his ventricular system is decompressed, so I feel comfortable monitoring off of anti-platelets. Overall, his lifetime seizure risk is probably <50% as well based on prior studies. He's doing well off of antiepileptics. His headaches, unfortunately, are still bothersome, but are known to be associated with anxiety and we are treating them appropriately. New headache types should be taken very seriously given his history of shunt, but we will continue to treat his chronic headaches with valproic acid.
+Mini-MACS: 1
+GMFCS: 1
+Pediatric Stroke Outcome Measure -
+Right sensorimotor score: 0
+Left sensorimotor score: 0
+Language deficit Production: 0.5
+Language deficit Comprehension: 0.5
+Cognitive or Behavioral: 0
+Total score: 1
+Plan:
+Further workup: Not indicated. His etiology is known
+Stroke prevention: Off of antiplatelet. Not indicated currently
+Rehab: He is getting therapies at school. Recommend he continue to get support at school and follow the recommendations of his neuropsychologist. I provided mother with a school letter.
+Re-imaging: Unlikely to need repeat MRI/MRA/MRV for now. Will hold off
+Anticonvulsant therapy: Off Keppra, though he is getting valproic acid for headache prophylaxis
+Other Concerns: Headaches. Wean off of amitriptyline, and continue valproic acid

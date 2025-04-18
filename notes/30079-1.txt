@@ -1,0 +1,72 @@
+30079
+Dx: Presumed perinatal arterial ischemic stroke
+HPI: The patient is a 2 y.o. female referred for an initial evaluation in pediatric stroke clinic at the request of her physician because of an incidental infarction seen on CT brain.  History is per mother and father and review of medical records made available. Several months ago, she was taken to the ER after hitting her head. She did well, but a CTB showed a chronic appearing left parieto-occipital chronic infarction, though there was no acute blood or other concerns. They are here to discuss imaging findings.
+She had a normal term pregnancy, but required a stat c-section for failure to progress. She did well in the nursery and was discharged home. Developmentally, she is meeting milestones. The only unusual thing noted is early left hand preference at about 12 months, though she has no weakness on the right.
+Past Medical History
+•	Abnormal CT of brain
+•	Abnormal findings on newborn screening
+•	Perinatal arterial ischemic stroke
+•	Recurrent acute otitis media
+Review of Systems
+Constitutional:  Negative for activity change.
+HENT:  Negative for ear discharge and ear pain.
+Eyes:  Negative for pain, discharge and itching.
+Respiratory:  Negative for apnea and choking.
+Cardiovascular:  Negative for chest pain and cyanosis.
+Gastrointestinal:  Negative for constipation and diarrhea.
+Endocrine: Negative for cold intolerance and heat intolerance.
+Genitourinary:  Negative for difficulty urinating and dysuria.
+Musculoskeletal:  Negative for gait problem and joint swelling.
+Skin:  Negative for color change and pallor.
+Allergic/Immunologic: Negative for environmental allergies and food allergies.
+Neurological:  Negative for seizures and speech difficulty.
+Hematological:  Negative for adenopathy. Does not bruise/bleed easily.
+Psychiatric/Behavioral:  Negative for agitation and behavioral problems.
+
+Visit Vitals
+Temp	36.6 °C (97.9 °F) (Temporal)
+Ht	0.9 m (2' 11.43")
+Wt	12.1 kg (26 lb 10.8 oz)
+HC	48 cm (18.9")
+BMI	14.94 kg/m²
+BSA	0.55 m²
+GEN: awake and alert, well-nourished, no acute distress
+HEENT:  no clefts/pits/masses; no dysmorphic facial features
+CHEST: equal chest rise. Breathing non labored
+HEART: acyanotic
+EXTREMITIES: normal digits, no sacral pits or dimples
+SKIN: no lesions, rash, cafe au lait spots
+NEUROLOGICAL EXAMINATION:
+MS: awake, alert, appropriate for age
+CN II-XII:  intact
+MOTOR EXAMINATION
+Mass:               Normal
+Tone:                Normal
+Strength:          Normal, left hand is dominant but has an appropriate grasp and holds objects up with her right hand.
+DTR’s:   2/2 throughout
+Plantar responses:       Extensor in right foot, flexor on left
+Sensation:        Intact
+Gait/Station:    Normal
+Cerebellum:     Normal
+Outside studies:  CT brain reviewed - there is encephalomalacia in a branch of posterior division of the left MCA, with no hydrocephalus
+Assessment:
+Stroke type: presumed perinatal arterial ischemic stroke
+Etiology: perinatal
+Mini-MACS: 1 - Handles objects easily and successfully. The child may have a slight limitation in performing actions that require precision and coordination between the hands but they can still perform them. The child may need somewhat more adult assistance when handling objects compared to other children of the same age.
+GMFCS:1
+This is a 2 year old presenting with a presumed perinatal arterial ischemic stroke. She has only subtle signs on exam and I expect will do very well. I informed parents that, lifelong, she will have slightly higher risk of adhd, dyslexia, and seizure then age-matched children without stroke, but doesn't need prophylactic treatment for them, and we will address any problems IF they arise.
+PSOM -
+Right sensorimotor : 0.5
+Left sensorimotor : 0
+Language Production: 0
+Language comprehension:0
+Comprehension/Behavioral: 0
+Total: 0.5
+Plan:
+Further workup: none
+Stroke prevention: none
+Rehab: will reevaluate needs in 1 year
+Re-imaging: It has been difficult for the patient to get an MRI due to URIs. Will see her again in 1 year and readdress need for MRI at this time
+Anticonvulsant therapy: Not indicated
+Other Concerns: None
+Follow up: in stroke clinic in 1 year

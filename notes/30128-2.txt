@@ -1,0 +1,100 @@
+30128
+The patient returns with both parents for follow-up of her stroke and epilepsy. She is doing well - her parents feel she has continued to improve but isn't back to normal yet. She is walking well and using her right hand normally but still complains of mild heaviness. Speech in her native Spanish is very good but parents say she is still having trouble translating to English for them. Her memory is still impaired but has improved. She is doing home schooling for 2 hours twice a week and plans to return to normal school at the beginning of next year. She is still wearing a R ankle brace but is having no issues ambulating without it. She finished her therapy services three weeks ago and they are applying for an extension of benefits on her behalf. She continues to be seizure free, they deny staring spells.
+Past Medical History
+Recent meningitis
+L MCA ischemic infarction
+Past surgical history: none
+No Known Allergies
+Current Outpatient Medications on File Prior to Visit
+•	Aspirin Low Dose 81 MG EC tablet
+•	gabapentin (Neurontin) 300 MG capsule
+•	levETIRAcetam (Keppra) 1000 MG tablet
+Family History: no history of early strokes or heart conditions
+Review of Systems
+Constitutional:  Positive for activity change and fatigue. Negative for appetite change, fever and irritability.
+HENT: Negative.
+Eyes: Negative.
+Respiratory: Negative.
+Cardiovascular: Negative.
+Gastrointestinal: Negative.
+Endocrine: Negative.
+Genitourinary: Negative.
+Musculoskeletal: Negative.
+Skin: Negative.
+Neurological:  Positive for speech difficulty, weakness and headaches. Negative for dizziness, seizures, syncope and facial asymmetry.
+Psychiatric/Behavioral:  Positive for decreased concentration. Negative for dysphoric mood and sleep disturbance. The patient is not nervous/anxious and is not hyperactive.
+Physical Exam:
+Visit Vitals
+BP	120/81 (BP Location: Right arm, Patient Position: Sitting)
+Pulse	81
+Temp	36.7 °C (98.1 °F) (Temporal)
+Ht	1.54 m (5' 0.63")
+Wt	46.4 kg (102 lb 4.7 oz)
+BMI	19.56 kg/m²
+Smoking Status	Never Assessed
+BSA	1.41 m²
+General: Active, alert, well-appearing.
+Head: Normocephalic and atraumatic.
+Hearing: Grossly intact.
+Speech: Decreased baseline vocabulary, no impediments.
+Pharynx: Mouth pink, mucous membranes moist. No tonsillar enlargement, exudate, or erythema.
+Lungs: Comfortable on room air.
+Cardiovascular: Acyanotic, good capillary refill.
+Extremities: Full ROM, no deformities
+Skin: Clear, no rashes or lesions.
+Neurologic Exam:
+Appropriately oriented to time, place, and person
+Decreased recent memory
+Attention span/concentration decreased for age
+Speech/Language: word finding difficulties; impaired repetition; following commands avidly; difficulty communicating and goes between English and Spanish
+Visual fields full to confrontation; fundi benign bilaterally (CNII)
+Pupils equal, round and reactive to light and accommodation; extraocular movements full and intact (CN III, IV, VI)
+Facial sensation and muscles of mastication normal (CN V)
+Face appears and moves symmetrically (CN VII)
+Hearing grossly intact bilaterally (CN VIII)
+Palate elevates symmetrically (CN IX)
+Shoulder shrug equal with good strength (CN XI)
+Tongue extends directly, no evidence of tongue atrophy or fasciculations (CN XII)
+Sensation grossly intact
+Reflexes:
+R Triceps 1+, Biceps 2+ w/ spread, Brachioradialis 1+, Patellar 1+, Ankle 1+
+L Triceps 1+, Biceps 1+, Brachioradialis 1+, Patellar 1+, Ankle 1+
+Motor: decreased bulk
+Strength:
+RUE- Deltoid 4/5, Triceps 5-/5, Biceps 4+/5, Wrist flexion 5-/5, Wrist extension 4+/5
+LUE- Deltoid 5/5, Triceps 5/5, Biceps 5/5, Wrist flexion 5/5, Wrist extension 5/5
+RLE- Iliopsoas 4+/5, Knee extension 5-/5, Knee flexion 5-/5, Ankle dorsiflexion 5/5, plantarflexion 5/5
+LLE- Iliopsoas 5/5, Knee extension 5/5, Knee flexion 5/5, Ankle dorsiflexion 5/5, plantarflexion 5/5
+Tone: normal and symmetric throughout
+Gait: normal heel, toe and tandem/ appropriate for age; no ataxia
+Coordination/Movements: circumduction with right leg
+Results/Data:
+MRI/MRA:
+1.  Extensive left hemispheric predominantly cortical parenchymal injury and volume loss, likely related to history of meningitis and associated left MCA territory stroke related to vasculitis.
+2.  Diffuse left hippocampal volume loss, suggestive of left-sided mesial temporal sclerosis which could be sequela of patient's known prior vascular insult +/- epilepsy.
+3.  Diffuse mild asymmetric decrease in caliber of the left middle cerebral artery and branch vessels compared to the right, also likely related to history of meningitis and associated left MCA territory vasculitis. No focal stenosis or occlusion identified.
+4.  Incidental note of 2 mm focal outpouching from the lateral wall of the posterior aspect of the horizontal trunk of the right cavernous internal carotid artery, may represent a small saccular aneurysm. As per patient's Epic chart history, patient had prior CT angiogram of the head and neck which is not available for comparison. Correlation with prior CT angiogram of the head is recommended.
+
+Ancillary Procedure on
+•	EEGREPORT	Comment: This is an abnormal awake and asleep 48 hour ambulatory EEG
+There is loss of faster frequencies and decreased amplitude in the left hemisphere suggestive of focal cerebral dysfunction in this region and consistent with patient's known history of left MCA infarct. There were no epileptiform discharges, push button events, or seizures.
+Assessment:
+Stroke type: Ischemic
+Etiology: Vasculitis 2/2 Meningitis
+Mini-MACS: 1 - Handles objects easily and successfully. The child may have a slight limitation in performing actions that require precision and coordination between the hands but they can still perform them. The child may need somewhat more adult assistance when handling objects compared to other children of the same age.
+GMFCS: Level 3: The patient may walk using a hand-held mobility device in most indoor settings. They may climb stairs holding onto a railing with supervision or assistance. Children use wheeled mobility when traveling long distances and may self-propel for shorter distances.  or Level 4: The patient use methods of mobility that require physical assistance or powered mobility in most settings. They may walk for short distances at home with physical assistance or use powered mobility or a body support walker when positioned. At school, outdoors and in the community the patient is transported in a manual wheelchair or use powered mobility.
+Pediatric Stroke Outcome Measure -
+Right sensorimotor: 0.5 - minimal to mild impairment, but normal function
+Left sensorimotor: 0 - No impairment, normal function
+Language Production: 0.5 - minimal to mild impairment, but normal function
+Language Comprehension: 0.5 - minimal to mild impairment, but normal function
+Comprehension/Behavioral: 0 - No impairment, normal function
+Total: 2
+The patient is an 11 YO F with recent meningitis that resulted in a vasculitis causing seizures and a L MCA ischemic infarct. She is currently recovering well with improvement in speech and right sided weakness but still not back at baseline. Her repeat imaging is stable and consistent with prior imaging. Her fatigue has improved but still present - will decrease Keppra and stop gabapentin to minimize sedation. She continues to be seizure free and her EEG was asymmetric but without discharges.
+Plan:
+Stroke prevention: ASA 81mg
+Rehab: Pending extension of PT/OT/ST
+Anticonvulsant therapy: Decrease Keppra to 500mg BID + sending script for rescue Clonazepam (instructions provided)
+Pain: stopping gabapentin
+Other Concerns: Mom concerned about school; agree with homeschool would be better for this semester as trying to recover.
+I will send a letter for her to resume school in August 2023 as well as a seizure action plan.

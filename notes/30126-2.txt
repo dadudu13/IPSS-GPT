@@ -1,0 +1,68 @@
+30126
+Dx: Perinatal arterial ischemic stroke, Seizure
+The patient is a 2 m.o. female referred for an initial evaluation in pediatric stroke clinic at the request of her pediatrician. Her birth is complicated by arrested decent, chorioamnionitis. On DOL 2 she developed a seizure described as myoclonic jerking of the LUE and opening and closing her left hand repeatedly, lasting about 2 minutes. She was transferred to NICU, where echo showed a PFO with R->L shunting, HUS showed basal ganglia hematoma, EEG revealed focal seizure in the right central cerebrum, and MRI/MRV/MRA revealed extensive R-sided MCA infarction with hemorrhagic conversion. Started on phenobarbital 8 mg BID with no seizure activity reported after initiation of drug. Discharged on DOL 10. No seizure activity reported in the interim. Parents report she is interactive and feeds well. History is per mother and father and review of medical records made available.
+Medications:
+- Phenobarbital 2mL (8mg total) BID
+Review of Systems
+Constitutional:  Negative for activity change, appetite change and irritability.
+HENT:  Negative for congestion, drooling and nosebleeds.
+Eyes:  Negative for discharge.
+Respiratory:  Negative for apnea, cough and wheezing.
+Cardiovascular:  Negative for fatigue with feeds, sweating with feeds and cyanosis.
+Gastrointestinal:  Negative for blood in stool, constipation, diarrhea and vomiting.
+Genitourinary:  Negative for hematuria.
+Skin:  Negative for color change, pallor and rash.
+Allergic/Immunologic: Negative for food allergies.
+Neurological:  Negative for seizures and facial asymmetry.
+Hematological:  Negative for adenopathy. Does not bruise/bleed easily.
+Physical Exam:
+Visit Vitals
+Temp	36.8 °C (98.2 °F) (Temporal)
+Ht	61 cm
+Wt	5.77 kg (12 lb 11.5 oz)
+HC	38 cm (14.96")
+BMI	15.51 kg/m²
+BSA	0.31 m²
+General: Active, alert, well-appearing.
+Head: normocephalic, anterior fontanelle is open, soft, and flat, no clefts/pits/masses
+Eyes: lids open, eyes clear without drainage, conjugate gaze
+Ears: normally set
+Nose: nares patent
+Oropharynx: palate intact, moist mucous membranes
+Chest: no retractions and no tachypnea
+Cardiac: acyanotic
+Abdomen: soft, non-tender, non-distended, no hepatosplenomegaly, no masses
+Musculoskeletal: moves all extremities normally, no deformities or dysmorphic features
+Back: spine intact, no tufts, no lesions, no dimples
+Skin: clear, no birthmarks
+Neurologic: symmetric facies, symmetric Moro, normal suck, normal tone and normal reflexes for gestational age
+Pupils equal, round and reactive to light; extraocular movements full and intact (CN III, IV, VI)
+Face appears and moves symmetrically (CN VII)
+Reflexes:
+Plantar response downgoing
+Good grasp reflex
+Motor: gross motor function intact
+Tone: normal and symmetric throughout
+Results/Data:
+Outside studies:
+EEG - focal seizure in right central cerebrum
+MRI/MRA in NICU - right MCA infarct
+Assessment:
+Stroke type: Perinatal arterial ischemic stroke
+Etiology: Unknown
+Mini-MACS: N/A
+GMFCS: N/A
+Pediatric Stroke Outcome Measure -
+Right sensorimotor: 0 - No impairment, normal function
+Left sensorimotor: 0 - No impairment, normal function
+Language Production:  0 - No impairment, normal function
+Language Comprehension:  0 - No impairment, normal function
+Comprehension/Behavioral:  0 - No impairment, normal function
+Total: 0
+This is a 2 month old who had a perinatal stroke with a very classic perinatal stroke story. There were a couple of risk factors (arrested descent, chorioamnionitis), but otherwise unremarkable. She then had seizures for several days which have resolved. Given the stroke is unilateral, life time risk of epilepsy is <20% - I will obtain an EEG to attempt to wean off her phenobarbital. Parents were given resources and extensive counseling. We will see how she develops - but I believe it is more likely than not that she will develop hemiplegic cerebral palsy.
+Plan:
+Further workup: 48-hour ambulatory EEG
+Re-imaging: Not at this time
+Rehabilitation: ECI already scheduled. If she has asymmetry at our next visit I will order PT/OT/SLP. She would be a good constraint induced movement therapy candidate.
+Anticonvulsant therapy: Continue phenobarbital, with plans to discuss potentially discontinue after reviewing results of EEG.
+Follow up: 3 months

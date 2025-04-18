@@ -1,0 +1,91 @@
+30088
+The patient is a 15 y.o. male referred for an evaluation in pediatric stroke clinic at the request of his neurosurgeon because of confirmed moyamoya syndrome.  History is per mother and review of medical records made available.
+He was admitted last Spring after a car accident - though he suffered only a c-spine fracture (managed conservatively with no neurologic deficits) concussion and minor abrasions. He received a CTA brain and neck due to being in a high speed car crash and was incidentally found to have ICA narrowing suspicious for moyamoya syndrome. He has recovered and has never had a clinical stroke but has had intermittent follow up. He had an MRI/MRA done 3 months ago which on my review revealed no stroke or evidence of Ivy sign, but the moyamoya changes are redemonstrated. At his last visit with me he was endorsing frequent left sided headaches. I started him on aspirin and referred him for a diagnostic angiogram.
+He had a diagnostic angiogram which confirmed moyamoya syndrome on the left, with delayed perfusion throughout the left MCA territory. He was discussed in pedi neurosurgery conference and plans made for indirect bypass. Patient has been on the ASA 81mg without any side effects.
+Interval:
+He underwent L temporal artery indirect bypass. He tolerated the procedure well with no complications. He has recovered well and is back in school now. He has no reported headaches or focal neurological deficits, including issues with gait, unilateral weakness, issues with speech, etc. He is not currently participating in sports or gym since his surgery. His main concern is when he can play soccer again. Parents have no concerns at this time. He continues to take ASA 81.
+Past Medical History
+•	C7 cervical fracture
+Medication
+•	aspirin 81 MG EC tablet
+Review of Systems
+Constitutional:  Negative for activity change and appetite change.
+HENT:  Negative for congestion and dental problem.
+Eyes:  Negative for discharge and itching.
+Respiratory:  Negative for choking and chest tightness.
+Endocrine: Negative for cold intolerance and heat intolerance.
+Genitourinary:  Negative for difficulty urinating and dysuria.
+Musculoskeletal:  Negative for arthralgias and back pain.
+Allergic/Immunologic: Negative for environmental allergies and food allergies.
+Neurological:  Negative for dizziness and facial asymmetry.
+Hematological:  Negative for adenopathy. Does not bruise/bleed easily.
+Psychiatric/Behavioral:  Negative for behavioral problems and confusion.
+Physical Exam:
+Visit Vitals
+BP	119/74 (BP Location: Right arm, Patient Position: Sitting)
+Pulse	75
+Temp	36.5 °C (97.7 °F) (Temporal)
+Ht	1.752 m (5' 8.98")
+Wt	65.7 kg (144 lb 12.8 oz)
+BMI	21.40 kg/m²
+Smoking Status	Never
+BSA	1.79 m²
+General: Active, alert, well-appearing.
+Head: Normocephalic and atraumatic.
+Hearing: Grossly intact.
+Speech: Adequate vocabulary, no impediments.
+Nose: Pink nasal turbinates, septum is midline. No drainage or deformities.
+Pharynx: Mouth pink, mucous membranes moist. No tonsillar enlargement, exudate, or erythema.
+Lungs: Comfortable on room air.
+Spine: Straight, no defects, no scoliosis.
+Extremities: Full ROM, no deformities
+Skin: Clear, no rashes or lesions.
+Neurologic Exam:
+Appropriately oriented to time, place, and person
+Mood/Affect: quiet and reserved but will interact with prompting
+Recent/remote memory appropriate for age
+Attention span/concentration appropriate for age
+Speech/Language: non-dysarthric, no impediments, fluent
+Fund of knowledge appropriate for age
+Visual fields full (CNII)
+PERRL, extraocular movements full and intact (CN III, IV, VI)
+Facial sensation normal (CN V)
+Face appears and moves symmetrically (CN VII)
+Hearing grossly intact bilaterally (CN VIII)
+Palate elevates symmetrically (CN IX)
+Shoulder shrug equal with good strength (CN XI)
+Tongue protrusion midline, no evidence of tongue atrophy or fasciculations (CN XII)
+Sensation grossly intact
+Motor: normal bulk
+Strength:
+RUE- Deltoid 5/5, Triceps 5/5, Biceps 5/5, Wrist flexion 5/5, Wrist extension 5/5
+LUE- Deltoid 5/5, Triceps 5/5, Biceps 5/5, Wrist flexion 5/5, Wrist extension 5/5
+RLE- Iliopsoas 5/5, Knee extension 5/5, Knee flexion 5/5, Ankle dorsiflexion 5/5, plantarflexion 5/5
+LLE- Iliopsoas 5/5, Knee extension 5/5, Knee flexion 5/5, Ankle dorsiflexion 5/5, plantarflexion 5/5
+Tone: normal and symmetric throughout
+Gait: normal casual and tandem/ appropriate for age; no ataxia
+Coordination/Movements: normal FTN; no tremor or abnormal movements
+Outside studies:  Review Prior CTA and MRI - no Ivy sign or infarction, but it looks like suzuki grade 2 or 3 on the left.
+Diagnostic Angiogram: Occlusion of proximal L M1 with delayed reconstitution into M2 (suzuki stage 3)
+TTE: small secundum ASD
+Assessment:
+Stroke type: vasculopathy - moyamoya syndrome on left. Right sided anterior circulation is normal
+Etiology: under investigation
+Mini-MACS: 1 - Handles objects easily and successfully. The child may have a slight limitation in performing actions that require precision and coordination between the hands but they can still perform them. The child may need somewhat more adult assistance when handling objects compared to other children of the same age.
+GMFCS: Level 1: The patient can walk at home, school, outdoors and in the community. They can climb stairs without the use of a railing. The patient can perform gross motor skills such as running and jumping, but speed, balance and coordination are limited.
+Pediatric Stroke Outcome Measure -
+Right sensorimotor: 0 - No impairment, normal function
+Left sensorimotor: 0 - No impairment, normal function
+Language Production: 0 - No impairment, normal function
+Language Comprehension: 0 - No impairment, normal function
+Comprehension/Behavioral: 0 - No impairment, normal function
+Total:  0
+This is a 15 year old male with moyamoya syndrome on the left of unclear cause - current suspected etiologies are inherited vasculopathy (though he needs genetic testing) vs sporadic moyamoya. It is Suzuki stage 3. He underwent L temporal artery indirect bypass to decrease his risk of stroke in the future. He will continue on ASA 81 and we will plan to repeat imaging over the summer prior to him restarting sports.
+Plan:
+Further workup:
+Repeat MRI Brain and MRA Brain/Neck in 3 months
+Consider WES to evaluate for a genetic cause of his moyamoya syndrome ((CMA negative, WES pending)
+Stroke prevention: Continue aspirin 81mg daily and told him he should drink 2L of fluid daily. No intense exercise participation for now. He is NOT cleared for track/soccer until repeat imaging is done and he is cleared by neurosurgery Rehab: not indicated
+Re-imaging: Repeat MRI Brain and MRA Brain/Neck in 3 months
+Anticonvulsant therapy: not needed
+Follow up: in 4 months

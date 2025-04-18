@@ -1,0 +1,69 @@
+30077
+Diagnosis: History of right MCA stroke, Nonintractable epilepsy without status epilepticus, unspecified epilepsy type
+HPI: The Patient is a 2 m.o. female referred for an initial evaluation in pediatric stroke clinic at the request of her neurologist because of a history of perinatal stroke.  History is per mother and grandmother and review of medical records made available.
+The patient was born at 38+3 via c/s due to failure to progress, with APGARS 5 and 8. She was born at an outside hospital, and was placed on antibiotics shortly after birth due to PROM with maternal chorioamnionitis. The baby started having apneas/desats day of life 1, and eventually was found to have abnormal movements and was transferred to the hospital for HLOC and seizure evaluation. On arrival, she was started on phenobarbital and seizures resolved within 3 days. MRI was consistent with right MCA stroke, mostly anterior division, with normal MRV and echo. The patient was treated for presumptive meningitis though cultures of CSF were negative, and was eventually discharged home. She has had no seizure like events since going home and parents state that she is doing well overall. They aren't sure about some issues with prognosis, which we discussed in detail.
+Past Medical History
+•	Encephalopathy
+•	History of right MCA stroke
+•	Nonintractable epilepsy due to external causes, without status epilepticus
+Medication
+•	PHENobarbital 20 MG/5ML elixir
+•	Poly-Vite Pediatric (Poly-Vi-Sol) solution
+Review of Systems
+Constitutional: Negative for activity change and appetite change.
+HENT: Negative for congestion and drooling.
+Eyes: Negative for discharge and redness.
+Respiratory: Negative for apnea and choking.
+Gastrointestinal: Negative for abdominal distention and anal bleeding.
+Genitourinary: Negative for decreased urine volume.
+Musculoskeletal: Negative for extremity weakness and joint swelling.
+Skin: Negative for color change.
+Neurological: Negative for facial asymmetry.
+Hematological: Negative for adenopathy. Does not bruise/bleed easily.
+Visit Vitals
+Temp	36.7 °C (98.1 °F) (Temporal)
+Ht	59 cm
+Wt	6.387 kg (14 lb 1.3 oz)
+HC	39 cm (15.35")
+BMI	18.35 kg/m²
+BSA	0.32 m²
+Physical Exam:
+GEN: awake and alert, well-nourished, no acute distress
+HEENT:  no clefts/pits/masses; no dysmorphic facial features
+CHEST: equal chest rise. Breathing non labored
+HEART: acyanotic
+EXTREMITIES: normal digits, no sacral pits or dimples
+SKIN: no lesions, rash, cafe au lait spots
+NEUROLOGICAL EXAMINATION:
+MS: awake, alert, appropriate for age
+CN II-XII:  intact
+MOTOR EXAMINATION
+Mass:               Normal
+Tone:                Slightly increased in left arm, hand is held clenched
+Strength:          Normal - but decreased spontaneous movement in left arm
+DTR’s:   2/2 throughout
+Plantar responses:       extensor bilaterally
+Sensation:        Intact
+Results/Data:
+Reviewed Prior MRI: Consistent with r. MCA stroke, worse in the anterior division than posterior. Structures supplied by M1 perforators are spared.
+Assessment:
+This is a 2 month old female who had a perinatal arterial ischemic stroke. This is a well described entity with unknown pathophysiology, though risk factors usually involve medical conditions related to difficulty transition to extrauterine life, such as chorioamnionitis or low APGARS. This patient clinically only has subtle left sided impairment, but it will get worse as she ages. I explained to mother that the main sequelae of perinatal arterial ischemic stroke are decreased IQ as compared to healthy controls, and hemiparesis that starts to become clinically apparent around 8 months of life. Life long epilepsy is rare. Most children with perinatal stroke will not have seizures after the acute event.
+Stroke type:  Perinatal arterial ischemic stroke
+Etiology: No definite cause. Risk factors include PROM, failure to progress, difficult transition to extrauterine life (APGARS 5 and 8), chorioamnionitis, and neonatal sepsis
+Mini-MACS: 3 - Handles objects with difficulty. Performance is slow, with limited variation and quality. Easily managed objects are handled independently for short periods. The child often needs adult help and support to handle objects.
+GMFCS: N/A
+PSOM -
+Right sensorimotor : 0
+Left sensorimotor : 1
+Language Production: 0
+Language comprehension: 0
+Comprehension/Behavioral: 0
+Total: 1
+Plan:
+Further workup: Not indicated. This was a one time event.
+Stroke prevention: Not indicated. Risk of repeat stroke in perinatal stroke is minimal
+Rehab: Parents haven't started ECI. I gave them referral information and my email. Importantly, she will be a good candidate for constraint therapy on a trial basis. I talked to mother about this and she will be open to participating when she is older.
+Re-imaging: Not indicated
+Anticonvulsant therapy: Continue phenobarbital at current dosing. She statistically will not need it long term. EEG is scheduled for this Spring. If no epileptiform discharges, can wean off.
+Other Concerns: None
+Follow up: in 3 months in clinic.

@@ -1,0 +1,71 @@
+30130
+Dx: Perinatal Arterial Ischemic Stroke
+Patient is a 2 y.o. male referred for an initial evaluation in pediatric stroke clinic at the request of Physician because of a history of perinatal arterial ischemic strokes.  History is per mother and review of medical records made available.
+Patient was born at Hospital via stat c-section for failure to progress, but had APGARS of 8 and 8 and did not require cooling. Shortly after birth he was noted to have left sided focal motor movements and was loaded with phenobarbital and started on EEG. The focal motor movements stopped and he had no seizures on EEG but did have epileptiform discharges. He had MRI, which revealed multifocal ischemic infarcts and MRA/MRV were normal. According to his discharge summary (scanned into chart) he also had a normal echocardiogram.
+He was discharged home and has been doing remarkably well since. He is on phenobarbital per recommendations from his doctor and has been assessed for therapies but did not require them. He is meeting his milestones per his mother and has not had any seizures they've seen. He speaks in 2-3 word sentences now, runs, walks, and is interactive with his parents and siblings.
+Review of Systems
+Constitutional:  Negative for activity change and appetite change.
+HENT:  Negative for congestion.
+Eyes:  Negative for discharge and itching.
+Respiratory:  Negative for cough.
+Cardiovascular:  Negative for chest pain and cyanosis.
+Gastrointestinal:  Negative for constipation and diarrhea.
+Endocrine: Negative for cold intolerance and heat intolerance.
+Genitourinary:  Negative for difficulty urinating and dysuria.
+Musculoskeletal:  Negative for gait problem.
+Skin:  Negative for color change and pallor.
+Neurological:  Negative for seizures and headaches.
+Psychiatric/Behavioral:  Negative for agitation and behavioral problems.
+Physical Exam:
+Visit Vitals
+BP	98/63 (BP Location: Right arm, Patient Position: Sitting)
+Pulse	97
+Temp	36.6 °C (97.9 °F) (Temporal)
+Resp	24
+Ht	0.9 m (2' 11.43")
+Wt	12.9 kg (28 lb 7 oz)
+HC	51 cm (20.08")
+SpO2	100%
+BMI	15.93 kg/m²
+Smoking Status	Never Assessed
+BSA	0.57 m²
+General: Active, alert, well-appearing.
+Head: Normocephalic and atraumatic.
+Ears: Canals clear.
+Eyes: PERRL, fundi benign, eyes aligned, sees small objects, follows face.
+Hearing: Responds to sounds and commands.
+Speech: appears normal.
+Nose: Pink nasal turbinates, septum is midline. Not obstructed.
+Pharynx: Mouth pink, mucous membranes moist. Clear, no drainage.
+Lungs: Comfortable on room air.
+Cardiovascular: Acyanotic, good capillary refill.
+Abdomen: Soft, nontender, nondistended. No hepatosplenomegaly, no masses, no hernia.
+Spine: Straight, no defects. Full ROM.
+Extremities: Full ROM including neck and spine, normal positioning.
+Skin: Clear, no rashes.
+Neuro: II-XII intact, DTR's 2/2, good tone, good strength, no ataxia. Normal reflexes. Makes good eye contact
+Outside studies:
+Outside MRI at birth performed at Hospital:
+He has normal anatomy. I see multifocal embolic appearing infarcts, all relatively small (maybe 1-2cm in diameter). He has a right PCA stroke, left MCA stroke near the insula, and a right frontal stroke. All are ischemic. There are no microhemorrhages or other problems.
+The MRA and MRV are normal.
+Stroke type:  Perinatal Arterial Ischemic Stroke
+Etiology: Idiopathic from birth
+Mini-MACS: 1 - Handles objects easily and successfully. The child may have a slight limitation in performing actions that require precision and coordination between the hands but they can still perform them. The child may need somewhat more adult assistance when handling objects compared to other children of the same age.
+GMFCS: Level 1: The patient can walk at home, school, outdoors and in the community. They can climb stairs without the use of a railing. The patient can perform gross motor skills such as running and jumping, but speed, balance and coordination are limited.
+Pediatric Stroke Outcome Measure -
+Right sensorimotor: 0 - No impairment, normal function
+Left sensorimotor: 0 - No impairment, normal function
+Language Production: 0 - No impairment, normal function
+Language Comprehension: 0 - No impairment, normal function
+Comprehension/Behavioral: 0 - No impairment, normal function
+Total: 0
+Patient is a 2 year old male who had multifocal perinatal arterial ischemic strokes. He had NRFHT and started having seizures about 12 hours after birth, which is a very common story for perinatal arterial ischemic stroke. He is doing better clinically than I would have expected based on his initial MRI, and I am very pleased he has no speech or motor impairment on my exam. Regarding his stroke workup - I did find an echocardiogram in his chart that was normal. For hypercoagulability evaluation, per AHA's 2019 scientific statement on perinatal stroke and American Society of Hematology guidelines, there is no need to do a thrombophilia evaluation at this time.
+Plan:
+Further workup: None indicated
+Stroke prevention: not indicated - stroke is perinatal. Recurrence rate is <1%
+Rehab: Not needed, but I will do a repeat developmental evaluation at 1 year
+Re-imaging: Per physician. I can see his old MRI, it could be helpful prognostication wise to complete a repeat MRI for subtle changes in brain architecture, but is non-urgent.
+Anticonvulsant therapy: Per physician. Since his strokes were bilateral, life time risk of epilepsy is likely >20%, but he may grow out of the need for anticonvulsants as he gets older.
+Other Concerns: none
+Follow up:  in 1 year
+

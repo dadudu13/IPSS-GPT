@@ -1,0 +1,112 @@
+30106
+The patient is an 8 m.o. male referred for a follow up evaluation in pediatric stroke clinic because of a history of childhood onset stroke with CVST and arterial ischemic stroke in the setting of hypoxic respiratory failure.  History is per father and review of medical records made available.
+The patient was born at 34 weeks and admitted for RSV the next month. He was very sick from RSV, and required intubation due to bradycardia and hypotension, and subsequent MRI/MRA/MRV demonstrated CVST (right transverse, sigmoid sinus), left MCA territory ischemic stroke in the parietal lobe with what what looked like HT1 hemorrhagic conversion. He was monitored on EEG and had no electrographic seizures, but did have epileptogenicity and was started on keppra monotherapy for prophylaxis.
+He was anticoagulated for CVST, and otherwise my stroke workup was not remarkable except for coagulopathy while he was septic. He completed anticoagulation this past winter when repeat imaging demonstrated no thrombus, as well as no new infarction.
+Since going home, father states he has been doing well. He takes keppra 130mg BID without difficulty. He is slightly slower in development than his siblings.
+Past Medical History
+•	Ischemic stroke
+•	Gastrostomy tube dependent
+•	Seizure disorder
+•	S/P Nissen fundoplication (with gastrostomy tube placement)
+•	Prematurity
+•	Gastroesophageal reflux disease without esophagitis
+•	Lymphopenia
+•	Bilateral vocal cord paresis
+•	Stridor
+•	Oropharyngeal dysphagia
+•	PFO with atrial septal aneurysm
+•	Supravalvar pulmonary stenosis
+•	Right pulmonary artery stenosis
+•	Positional plagiocephaly
+•	Development delay
+•	Cerebral venous sinus thrombosis
+•	Ischemic stroke
+Surgical History
+•	GASTROJEJUNOSTOMY W/ JEJUNOSTOMY TUBE
+•	GASTROSTOMY TUBE PLACEMENT
+No Known Allergies
+Current Outpatient Medications on File Prior to Visit
+•	acetaminophen (Tylenol Children's) 160 MG/5ML suspension
+•	hydrocortisone 1 % ointment
+•	levETIRAcetam (Keppra) 100 MG/ML solution
+•	Simethicone 40 MG/0.6ML liquid
+•	sulfamethoxazole-trimethoprim (Bactrim) 200-40 MG/5ML suspension
+Family History
+•	Diabetes	Paternal Grandmother
+Review of Systems
+Constitutional: Negative.
+HENT: Negative.
+Eyes: Negative.
+Respiratory: Negative.
+Cardiovascular: Negative.
+Gastrointestinal: Negative.
+Genitourinary: Negative.
+Musculoskeletal: Negative.
+Skin: Negative.
+Allergic/Immunologic: Negative.
+Neurological: Negative.
+Hematological: Negative.
+Physical Exam:
+Visit Vitals
+Temp	36.6 °C (97.9 °F) (Temporal)
+Ht	66 cm
+Wt	7.18 kg (15 lb 13.3 oz)
+HC	38 cm (14.96")
+BMI	16.48 kg/m²
+Smoking Status	Never Assessed
+BSA	0.36 m²
+General: Active, alert, well-appearing.
+Head: Normocephalic and atraumatic. AF is soft and flat.
+Ears: Canals clear.
+Eyes: PERRL, follows face.
+Hearing: Follows sound.
+Nose: Pink nasal turbinates, septum is midline. Unobstructed.
+Pharynx: Mouth pink, mucous membranes moist. Clear, no drainage.
+Lungs: Comfortable on room air.
+Cardiovascular: Acyanotic, good capillary refill.
+Abdomen: Soft, nontender, nondistended. No hepatosplenomegaly, no masses, no hernia.
+Spine: Straight, no defects. Full ROM.
+Extremities: Full ROM, hip skinfolds symmetric, normal positioning, no dysmorphic features.
+Skin: Clear, no rash, no lesions, no birthmarks.
+Neuro:
+Mental status: awake, alert, smiles at examiner and looks to siblings and father for comfort
+CN: II-XII intact
+DTR's 2/2,
+good tone, good strength. Symmetric muscle movements on my exam.
+Doesn't crawl on my exam - cries when placed on stomach. Patient can sit in tripod.
+Results/Data:
+Outside MRIs reviewed:
+BRAIN MRV:
+The deep cerebral veins and major venous sinuses are patent. The left transverse sinus is dominant. There are no signs of venous sinus thrombosis.
+IMPRESSION:
+1. Expected evolutionary changes of the areas of ischemia and hemorrhage in the left parietal lobe, with interval development of encephalomalacia with hemosiderin deposits.
+2. Prominence of the subarachnoid space bilaterally.
+3. Small bilateral subdural collections with CSF signal intensity, without mass effect on the brain parenchyma.
+4. Normal MR venogram of the brain.
+Brain wo contrast MRI
+IMPRESSION: Extensive parenchymal abnormalities are detected.
+1. Multifocal areas of diffusion restriction consistent with recent ischemic change in a distribution felt to indicate hypotensive or hypoxic ischemic event.
+2. Cortical infarct in the left parietal lobe with hemorrhagic transformation. In this patient with evidence of venous sinus thrombosis contralaterally, this infarct could have been caused by a cortical vein thrombosis which is no longer visible directly.
+3. Hemorrhagic transformation of a periventricular region of ischemia on the left to a greater degree than on the right. The latter 2 areas of hemorrhage account findings described on prior ultrasound.
+4. Abnormal signal within the right transverse sinus. Please see discussion of the dedicated imaging study dictated separately.
+Assessment:
+Stroke type: CVST + arterial ischemic stroke with HT1 conversion
+Etiology: critical illness with coagulopathy, now resolved
+Mini-MACS: 1 - Handles objects easily and successfully. The child may have a slight limitation in performing actions that require precision and coordination between the hands but they can still perform them. The child may need somewhat more adult assistance when handling objects compared to other children of the same age.
+GMFCS: not yet appropriate
+Pediatric Stroke Outcome Measure -
+Right sensorimotor: 0 - No impairment, normal function
+Left sensorimotor: 0 - No impairment, normal function
+Language Production: 0 - No impairment, normal function
+Language Comprehension: 0 - No impairment, normal function
+Comprehension/Behavioral: 0 - No impairment, normal function
+Total: 0 at this time
+This is an 8 month old child who developed multiple strokes (CVST + arterial ischemic) in the setting of critical illness, which is now resolved. He is adjusted about 7 months old, and is just starting to fall behind on motor milestones (not yet crawling). He is at high risk for continued developmental delay given his brain injuries.
+Plan:
+Further workup: none at this time
+Stroke prevention: I don't recommend aspirin for him at this time. No need for anticoagulation either
+Rehab: PT/OT and ECI ordered today. He is likely to have developmental delay
+Re-imaging: None needed from my perspective
+Anticonvulsant therapy: Keppra weight adjusted to 150mg BID. We will order an EEG at the next visit and consider weaning off keppra based on results.
+Other Concerns: none at this time
+Follow up: in 3-4 months in clinic with me for developmental assessment.

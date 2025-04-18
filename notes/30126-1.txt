@@ -1,0 +1,76 @@
+30126
+The patient is a 6 m.o. female referred for a follow up evaluation in pediatric stroke clinic at the request of her pediatrician. Her birth is complicated by arrested decent, chorioamnionitis. On DOL 2 she developed a seizure described as myoclonic jerking of the LUE and opening and closing her left hand repeatedly, lasting about 2 minutes. She was transferred to NICU, where echo showed a PFO with R->L shunting, HUS showed basal ganglia hematoma, EEG revealed focal seizure in the right central cerebrum, and MRI/MRV/MRA revealed extensive R-sided MCA infarction with hemorrhagic conversion. Started on phenobarbital 8 mg BID with no seizure activity reported after initiation of drug. Discharged on DOL 10.
+Since her last visit at 3 months of life, parents notice that she has an increasing right hand preference. She can use the left hand, but they have to make her. No seizures or ER visits, and she takes her phenobarbital every day. She is getting ECI as well as private physical therapy.
+Past Medical History
+- Right MCA infarct discovered on DOL 2
+No past surgical history on file
+No Known Allergies
+Medications: Phenobarbital 2mL (8mg total) BID = 2.8mg/kg/day
+Family History: no history of perinatal stroke, no history of seizures
+Review of Systems
+Constitutional:  Negative for activity change, appetite change and irritability.
+HENT:  Negative for congestion, drooling and nosebleeds.
+Eyes:  Negative for discharge.
+Respiratory:  Negative for apnea, cough and wheezing.
+Cardiovascular:  Negative for fatigue with feeds, sweating with feeds and cyanosis.
+Gastrointestinal:  Negative for blood in stool, constipation, diarrhea and vomiting.
+Genitourinary:  Negative for hematuria.
+Skin:  Negative for color change, pallor and rash.
+Allergic/Immunologic: Negative for food allergies.
+Neurological:  Negative for seizures and facial asymmetry.
+Hematological:  Negative for adenopathy. Does not bruise/bleed easily.
+Physical Exam:
+Visit Vitals
+Temp	36.8 °C (98.3 °F) (Temporal)
+Ht	70 cm
+Wt	7.19 kg (15 lb 13.6 oz)
+HC	43 cm (16.93")
+BMI	14.67 kg/m²
+Smoking Status	Never Assessed
+BSA	0.37 m²
+General: Active, alert, well-appearing.
+Head: normocephalic, anterior fontanelle is open, soft, and flat, no clefts/pits/masses
+Eyes: lids open, eyes clear without drainage, conjugate gaze
+Ears: normally set
+Nose: nares patent
+Oropharynx: palate intact, moist mucous membranes
+Chest: no retractions and no tachypnea
+Cardiac: acyanotic
+Abdomen: soft, non-tender, non-distended, no hepatosplenomegaly, no masses
+Musculoskeletal: moves all extremities normally, no deformities or dysmorphic features
+Back: spine intact, no tufts, no lesions, no dimples
+Skin: clear, no birthmarks
+Neurologic: symmetric facies, smiles socially and looks around room
+Pupils equal, round and reactive to light; extraocular movements full and intact (CN III, IV, VI)
+Face appears and moves symmetrically (CN VII)
+Reflexes:
+Plantar response downgoing on right, upgoing on left
+Motor: gross motor function intact. Notably, moves the left arm less spontaneously than the right. Examiner has to hold down her right arm to make her reach with her left. Grasp quality is impaired on left compared to right
+Tone: normal on right, and increased on left upper and lower extremity.
+•	EEGREPORT
+Comment: This awake and sleep ambulatory EEG study (46h) is abnormal and suggestive of focal epileptogenicity in the right central region. No seizures are recorded. There are no push button events
+Outside studies:
+EEG - focal seizure in right central cerebrum
+MRI/MRA in NICU - right MCA infarct
+EEG - sharp waves on right hemisphere, otherwise normal
+Assessment:
+Stroke type: Perinatal arterial ischemic stroke
+Etiology: Unknown
+Mini-MACS: N/A
+GMFCS: N/A
+Pediatric Stroke Outcome Measure -
+Right sensorimotor: 0 - No impairment, normal function
+Left sensorimotor: 1 - moderate impairment, decreased function
+Language Production:  0 - No impairment, normal function
+Language Comprehension:  0 - No impairment, normal function
+Comprehension/Behavioral:  0 - No impairment, normal function
+Total: 1
+This is a 6 month old who had a perinatal stroke with a very classic perinatal stroke history. There were a couple of risk factors (arrested descent, chorioamnionitis), but otherwise unremarkable. She then had seizures for several days which have resolved. Given the stroke is unilateral, life time risk of epilepsy is <20% - her eeg revealed sharp waves but no other abnormalities. She is likely to meet criteria for cerebral palsy when she is about 1 year old, but I will continue to follow her exam.
+Her parents are very attentive and have gotten her into appropriate therapies and are giving her medication reliably. She will benefit from continued therapy services, and possibly intensive therapy through the I-ACQUIRE trial.
+Plan:
+Further workup: None at this time
+Re-imaging: Not at this time
+Rehabilitation: Continue PT and ECI.
+Anticonvulsant therapy: Continue phenobarbital as EEG was abnormal, but I will not weight adjust as she didn't have spikes, only sharp waves, on EEG. Will revisit weaning off phenobarbital at her next visit.
+Other Concerns: None at this time. I-ACQUIRE coordinator discussed the study with the family today.
+Follow up: 3 months

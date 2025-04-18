@@ -1,0 +1,68 @@
+30073
+Reason for Visit: Stroke
+History of Present Illness: The patient is a 3 year, 10 mo old right-handed male with history of auto-ped accident in two years ago that was complicated by TBI and grade 4 ICA injury complicated by watershed infarcts in the R ACA/MCA territory c/b L hemiparesis one time seizure, who presents for first time follow-up after hospitalization. Parents report that since discharge, patient has been undergoing PT, OT, and speech therapy. They have seen significant improvements in his movements and speech. He now appears to be about at his pre-accident baseline. He continues to have some spasticity in the the L>R lower extremity and in his L upper extremity. Since he had finished pre-k, he has not been doing therapies. They are interested in continuing these over the summer.
+Family is also concerned about patient's recent seizure activity. Patient had one seizure while admitted to the hospital for his accident. For this he was ultimately discharged on keppra 375mg BID. He had been seizure free until this Spring when he had one 30 second seizure with L arm abduction and flexion, L gaze deviation followed by post-ictal confusion and drowsiness for a couple hours. Video reviewed with family in clinic today. This seizure occurred in the setting of fever, which persisted for a couple days after the episode, but there was an absence of other symptoms of illness. He did not have any further episodes. Family has been compliant with the same dose of keppra since discharge.
+Birth history: Born at term, no complications
+Developmental history: Met milestones prior to accident, had regression of motor and speech milestones after accident, now at pre-accident baseline
+Past Medical History: TBI, R grade IV ICA injury, R frontal infarcts, seizures
+Family Medical History: No history of seizures, developmental delay, intellectual disability, or other neurologic disorders.
+Social History: Lives with mother, father, and siblings. In Pre-k. Currently in summer break.
+Allergies: NKDA
+Meds:
+- Keppra 375 mg BID (50 mg/kg/day)
+- ASA 81mg daily
+Physical Exam:
+Vitals:
+BP:	100/56
+Pulse:	97
+Temp:	36.7 °C (98.1 °F)
+General: Active, alert, well-appearing.
+Head: Normocephalic and atraumatic.
+Ears: Canals clear.
+Eyes: Amblyopia, follows face.
+Hearing: Responds to sounds and commands.
+Speech: difficult to understand for age
+Lungs: Comfortable on room air.
+Cardiovascular: Acyanotic
+Extremities: Full ROM including neck and spine, normal positioning.
+Skin: Clear, no rashes.
+Neurologic Exam:
+Patient alert, active, moving about room throughout visit
+Speech/Language: difficult to understand for age, uses 1 word
+L APD, both pupils reactive to light, dysconjugate gaze
+Face appears and moves symmetrically (CN VII)
+Hearing grossly intact bilaterally; reported decreased hearing in R
+Palate elevates symmetrically (CN IX)
+Sensation grossly intact, some neglect LUE
+Motor: normal bulk, increased tone in LUE, bialteral lower extremities, prefers R arm to L. Though has good range of motion in both arms and hands.
+Gait: Toe walking bilaterally
+Coordination/Movements: no tremor or abnormal movements
+Diagnostics:
+Imaging:
+CTA H&N: continued severe narrowing, but with some recannalization of R ICA
+CTA H&N: Grade IV injury with complete occlusion of the R cervical ICA
+MRI brain: Shear injuries splenium corpus callosum, hemorrhagic contusions bilateral frontal, temporal lobes, watershed infarcts in R ACA/MCA territory.
+cvEEG: Continuous slowing and L fronto-temporal asymmetry
+Assessment:
+Stroke type: right watershed strokes
+Etiology:traumatic right ICA injury, Grade IV
+Mini-MACS: 3 - Handles objects with difficulty. Performance is slow, with limited variation and quality. Easily managed objects are handled independently for short periods. The child often needs adult help and support to handle objects.
+GMFCS: Level 2: The patient can walk in most settings and climb stairs holding onto a railing. They may experience difficulty walking long distances and balancing on uneven terrain, inclines, in crowded areas or confined spaces. The patient may walk with physical assistance, a handheld mobility device or used wheeled mobility over long distances. The patient may have only minimal ability to perform gross motor skills such as running and jumping.
+Pediatric Stroke Outcome Measure -
+Right sensorimotor: 0.5 - minimal to mild impairment, but normal function
+Left sensorimotor: 1 - moderate impairment, decreased function
+Language Production: 1 - moderate impairment, decreased function
+Language Comprehension: 1 - moderate impairment, decreased function
+Comprehension/Behavioral: 1 - moderate impairment, decreased function
+Total: 4.5
+The patient is a 3 yo M with history of auto-ped accident with resultant TBI, grade IV R ICA injury w/ subsequent ACA, MCA watershed infarcts with residual spasticity and mild L hemiparesis and epilepsy who presents for the first time since discharge. He has had subsequent seizure in the setting of fever and as such will increase his medications to weight appropriate dosing. For stroke, he has been continued on aspirin. We will repeat imaging to see if there is any recanalization of the R ICA and make further decisions regarding the duration of aspirin after that point.
+Plan:
+Further workup: cause is known - no further etiologic workup necessary
+Stroke prevention: Continue aspirin 81mg daily
+Rehab: PT/OT ordered. He will benefit from ongoing therapies
+Re-imaging: MRI/MRA without contrast
+Anticonvulsant therapy:
+- Epilepsy precautions given
+- Increase Keppra to 4mL (400mg) BID.
+- Clonazepam 0.5mg rescue medication ordered today
+Follow-up in 6 months.

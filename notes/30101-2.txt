@@ -1,0 +1,99 @@
+30101
+Dx: Dissection of carotid artery; Acute CVA due to embolism of right MCA
+The patient is a 17 y.o. male presenting for follow-up in pediatric stroke clinic for his right MCA stroke.  History is per parents and patient and review of medical records made available.
+Interval History:
+Last seen last November in clinic. Since that time, he has been doing well. No headaches, memory loss, syncope, seizures, dizziness, tremors, new-onset or worsening weakness.  At that visit, we discussed continuing occupational therapy and obtaining a CTA. Since the last visit, he is being home schooled at the 11th grade level and goes in person 2 days per week. Otherwise gets adequate sleep at nighttime, approximately 8-10 hours per night. He still suffers from cognitive fatigue if he has a long day and has to nap. We reviewed his CTA which shows continued irregularity in the right MCA but normal bilateral ICAs. He has started to see his friends again and attend football practices again (though not participating per my instructions). Overall, he has a positive attitude.
+Therapies:
+Currently doing 1 hr each bi weekly of PT/OT/ST.
+His speech is now fluent so he will be discharged from ST. No trouble with walking, transfers so he is about to be released from PT.
+Medication
+•	aspirin tablet 325 mg
+Review of Systems
+Constitutional:  Negative for activity change and appetite change.
+HENT:  Negative for congestion, ear discharge, rhinorrhea and sore throat.
+Eyes:  Negative for discharge and itching.
+Respiratory:  Negative for cough, choking, chest tightness and shortness of breath.
+Cardiovascular:  Negative for chest pain.
+Gastrointestinal:  Negative for constipation and diarrhea.
+Endocrine: Negative for cold intolerance and heat intolerance.
+Genitourinary:  Negative for dysuria and enuresis.
+Musculoskeletal:  Negative for back pain and gait problem.
+Neurological:  Positive for weakness. Negative for facial asymmetry and speech difficulty.
+Hematological:  Negative for adenopathy. Does not bruise/bleed easily.
+Physical Exam:
+Visit Vitals
+BP	128/79 (BP Location: Right arm, Patient Position: Sitting)
+Pulse	66
+Temp	36.3 °C (97.3 °F) (Temporal)
+Ht	1.776 m (5' 9.92")
+Wt	93.7 kg (206 lb 9.6 oz)
+BMI	29.71 kg/m²
+Smoking Status	Never Assessed
+BSA	2.15 m²
+General: Active, alert, well-appearing.
+Head: Normocephalic and atraumatic.
+Ears: Canals clear.
+Hearing: Grossly intact.
+Nose: Pink nasal turbinates, septum is midline. No drainage or deformities.
+Pharynx: Mouth pink, mucous membranes moist. No tonsillar enlargement, exudate, or erythema.
+Lungs: Comfortable on room air.
+Cardiovascular: Acyanotic, good capillary refill.
+Spine: Straight, no defects, no scoliosis.
+Extremities: Unable to extend his left wrist/hand/fingers fully. Full ROM of RUE
+Skin: Clear, no rashes or lesions.
+Neurologic Exam:
+Appropriately oriented to time, place, and person
+Recent/remote memory appropriate for age
+Attention span/concentration - slightly distractible for age, though improved from his last visit.
+Speech/Language - non-dysarthric. For language, he is able to recall events and memories, but sometimes jumps from topic to topic abruptly without providing appropriate context. When asked a specific question or asked to complete a specific task, he is able to answer correctly
+Fund of knowledge appropriate for age
+Visual fields full to confrontation; (CNII)
+Pupils equal, round and reactive to light and accommodation; extraocular movements full and intact (CN III, IV, VI)
+Facial sensation equal bilaterally (CN V)
+Face appears and moves symmetrically (CN VII)
+Hearing grossly intact bilaterally (CN VIII)
+Palate elevates symmetrically (CN IX)
+Shoulder shrug equal with good strength (CN XI)
+Tongue protrusion midline, no evidence of tongue atrophy or fasciculations. Unable to depress L side of tongue as much as R side when asked to open his mouth wide (CN XII)
+Sensation grossly intact
+Reflexes:
+R Triceps 2+, Biceps 2+, Brachioradialis 2+, Patellar 2+, Ankle 2+
+L Triceps 2+, Biceps 2+, Brachioradialis 2+, Patellar 2+, Ankle 2+
+Plantar response downgoing
+Motor - normal bulk; some tightness of L pectoral muscle (unable to abduct his LUE to 90 degrees at the shoulder
+Strength:
+RUE- Deltoid 5/5, Triceps 5/5, Biceps 5/5, Wrist flexion 5/5, Wrist extension 5/5
+LUE- Deltoid 4/5, Triceps 4/5, Biceps 4/5, Wrist flexion 3/5, Wrist extension 2/5
+RLE- Iliopsoas 5/5, Knee extension 5/5, Knee flexion 5/5, Ankle dorsiflexion 5/5, plantarflexion 5/5
+LLE- Iliopsoas 4+/5, Knee extension 4+/5, Knee flexion 4+/5, Ankle dorsiflexion/plantarflexion 4+/5
+Tone - symmetric, no increased tone on the left at this visit.
+Gait - spastic gait with very mild circumduction of left side
+Coordination/Movements - normal for age and symmetric; no tremor or abnormal movements; able to walk independently; able to get on and off examination table without help
+Results/Data:
+CT Head wo IV Contrast: Expected evolution of right MCA ischemic changes.
+MRI Brain wo IV Contrast: Acute infarct in the right MCA distribution with involvement of the right basal ganglia/internal capsule with extension to the right insula and corona radiata. Localized mass effect with partial effacement of the right lateral ventricle without midline shift. No hemorrhagic transformation. No downward herniation.
+VR Angiogram Cervical Artery Bilateral:
+1. Luminal irregularity of the post bulbar right carotid artery extending through the upper cervical region. Luminal irregularities are seen along the supraclinoid carotid with some poorly delineated luminal narrowing just at the level of the origin of the posterior communicating artery. This posterior communicating artery itself shows continuous posterior to anterior flow giving further evidence of the adjacent luminal narrowing of the carotid. Scattered luminal irregularities extend through the proximal middle cerebral artery as described above. Additionally, there is somewhat irregular appearance of a large lenticulostriate trunk. A filling defect is seen in the anterior most sylvian branch of the MCA and a posterior frontal sylvian MCA branch is occluded.
+While no discrete intimal flap is evident, the multiplicity of luminal irregularities, diminished right ICA flow, and occlusive change of 2 distal MCA branches would be most compatible with a dissection process. The remainder of the cerebral vasculature is well preserved.
+CTA: Normal neck CTA on my review, narrowing of right MCA still but not significantly flow limiting.
+Assessment:
+Stroke type: Arterial ischemic stroke
+Etiology: traumatic dissection of the right ICA with intracranial extension to the MCA
+Mini-MACS: 4 - Handles a limited selection of easily managed objects in simple actions. The actions are performed slowly, with exertion and/or random precision. The child needs constant adult help and support to handle objects.
+GMFCS: Level 1: The patient can walk at home, school, outdoors and in the community. They can climb stairs without the use of a railing. The patient can perform gross motor skills such as running and jumping, but speed, balance and coordination are limited.
+Pediatric Stroke Outcome Measure -
+Right sensorimotor: 0 - No impairment, normal function
+Left sensorimotor: 1 - moderate impairment, decreased function
+Language Production: 0.5 - minimal to mild impairment, but normal function
+Language Comprehension: 0 - No impairment, normal function
+Comprehension/Behavioral: 0.5 - minimal to mild impairment, but normal function
+Total: 2
+17 year old male who suffered a right MCA territory stroke secondary to traumatic dissection. He is left handed, and had aphasia on presentation, indicating that this patient is right brain dominant and had damage to his expressive language and partially his receptive language areas. His physical/occupational function and speech have improved. However, he still has significant sensorimotor impairment on the left and has limited function in his left hand, despite gains through outpatient rehab. His ability to function and adapt with use of his right hand is significantly improved since his last visit. Overall, his prognosis for functional ability is good with continued outpatient rehab. The progression of his stroke is being well managed with Eliquis now, and we will re-evaluate after further imaging.
+Plan:
+Further workup: Did not see genetics, but has a lot to manage dealing with school. Will defer for now and possibly send targeted genetic testing in the summer.
+Stroke prevention: Continue aspirin daily
+Rehab: Referred to predriving rehabilitation program
+Re-imaging: None at this time.
+Anticonvulsant therapy: not indicated
+Other Concerns: Also seen by pediatric stroke therapist who provided them with additional resources for therapy.
+Follow up: Return to clinic in the summer months after this school year is over.
