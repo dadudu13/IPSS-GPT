@@ -29,8 +29,8 @@ class Severity(Enum):
     SEVERE = "Severe"
 
 class Deficit_type(Enum):
-    COGNITIVE = "Cognitive"
-    BEHAVIORAL = "Behavioral"
+    COGNITION = "Cognition"
+    BEHAVIOR = "Behavior"
     SPEECH = "Speech"
     MOTOR = "Motor"
 
@@ -44,7 +44,7 @@ class Status(Enum):
     CHRONIC = "Chronic"
     EVOLVING = "Evolving"
 
-class Imagine_type(Enum):
+class Imaging_type(Enum):
     CT = "CT"
     CTA = "CTA"
     MRI = "MRI"
@@ -100,22 +100,18 @@ class Neuro_Deficit_Score_Severity(BaseModel):
 
 class Neuro_Deficit_Type(BaseModel):
     '''
-    Extract the neruologic deficit type in the notes and follow the determination guideline:
-    - Don't infer the neroulogic deficit type based on disease history. 
-    - Only extract existing deficit type directly mentioned in the notes. 
-    - If neroulogic deficit type is mentioned but shows normal, return None for neurologic_deficit_type.
+    Extract the existing neruologic deficit type in the notes.
     '''
 
     neurologic_deficit_type: Optional[List[Deficit_type]] = Field(
         None, 
         description="What neurological deficit does the patient have?"
     )
+    answer_facts: List[Fact] = Field(..., description="Exact fact quotes from the note supporting the answer.")
     chain_of_thought: str = Field(
         ...,
         description="The chain of thought that led to your rate of patients neurological deficit severity.",
     )
-
-
   
     # - Initial imaging showed and no other mention of the images: No
     # - Single imaging descriptions are more likely to be initial ones instead of follow-up imaging
@@ -129,37 +125,6 @@ class Neuro_Deficit_Type(BaseModel):
     # - If MRI, MRA, CT, or CTA mentioned in a paragraph starting with interval history, it indicates a follow-up imaging
     # - If MRI, MRA, CT, or CTA mentioned more than once, it indicates a follow-up imaging
     # - If anything have repeated done (e.g., reindentified, reestablished), it indicates a follow-up imaging    
-
-class follow_up_status(BaseModel):
-    '''
-    Please determine if patient has a follow-up imagine, if yes, then extract the patient status in follow-up imagine and the type of follow-up imagine.
-    The follow-up imagine type including CT, CTA, MRI, MRA, MRV, DSA, and DA (Diagnostic angio). 
-    Please only extract the imaging type related to follow-up.
-    Repeat imaging is the same as follow-up imaging. 
-    When repeat imaging is in schdule or planned, it does not indicate follow-up imaging.
-    If imaging report shows changes or not, developement, continuation, or persistence, it indicates a follow-up imaging.
-
-    We only count brain MRI.
-
-    '''
-    follow_up_status: Optional[YesNo] = Field(
-        None,
-        description="From patient imaging reports, does patient have a follow-up imagine since discharge or their last visit with us?."
-    )
-    patient_status_from_follow_up_imaging: Optional[Status] = Field(
-        None,
-        description="If patient has a follow up imaging, evaluate patient status in the follow-up imagine."
-    )
-    follow_up_imaging_type: Optional[List[Imagine_type]] = Field(
-        None,
-        description="If patient has a follow up imaging, what type of imaging have they had during the follow-up?"
-    )
-    answer_facts: List[Fact] = Field(..., description="Exact fact quotes from the note supporting the answer.")
-    chain_of_thought: str = Field(
-        ...,
-        description="The chain of thought that how you determine patient's follow-up imagine status and type."
-    )
-
     # - "does not need repeat imaging": No
     # - "should get repeat imaging": No
     # - "repeat imaging not indicated": No
@@ -167,6 +132,34 @@ class follow_up_status(BaseModel):
     # - "repeat imaging: not at this time": No
     # - "Re-imaging: will hold off": No
     # - "Repeat imaging showed": Yes
+
+    # Here is some examples to help you determine the follow-up imaging:
+    # - "He had an MRI brain and spine recently which was nonconcerning" indicates not a follow-up imaging.
+    # - "Outside studies were reviewed" indicates not a follow-up imaging.
+
+class follow_up_status(BaseModel):
+    '''
+    Follow-up brain imaging is a repeat imaging after discharge or their last visit with the clinic.
+    '''
+    follow_up_status: Optional[YesNo] = Field(
+        None,
+        description="From patient imaging reports, does patient have a follow-up brain imaging since discharge or their last visit with us?."
+    )
+    follow_up_imaging_type: Optional[List[Imaging_type]] = Field(
+        None,
+        description="If patient has a follow up imaging, what type of imaging have they had during the follow-up?"
+    )
+    patient_status_from_follow_up_imaging: Optional[Status] = Field(
+        None,
+        description="If patient has a follow up imaging, evaluate patient status in the follow-up imaging."
+    )
+    answer_facts: List[Fact] = Field(..., description="Exact fact quotes from the note supporting the answer.")
+    chain_of_thought: str = Field(
+        ...,
+        description="The chain of thought that how you determine the answers."
+    )
+
+
 
 # class post_discharge_rehabilitation(BaseModel):
 #     '''

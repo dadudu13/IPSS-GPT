@@ -44,7 +44,7 @@ CTA H&N: Grade IV injury with complete occlusion of the R cervical ICA
 MRI brain: Shear injuries splenium corpus callosum, hemorrhagic contusions bilateral frontal, temporal lobes, watershed infarcts in R ACA/MCA territory.
 cvEEG: Continuous slowing and L fronto-temporal asymmetry
 Assessment:
-Stroke type: right watershed strokes
+Stroke type: right watershed strokesz
 Etiology:traumatic right ICA injury, Grade IV
 Mini-MACS: 3 - Handles objects with difficulty. Performance is slow, with limited variation and quality. Easily managed objects are handled independently for short periods. The child often needs adult help and support to handle objects.
 GMFCS: Level 2: The patient can walk in most settings and climb stairs holding onto a railing. They may experience difficulty walking long distances and balancing on uneven terrain, inclines, in crowded areas or confined spaces. The patient may walk with physical assistance, a handheld mobility device or used wheeled mobility over long distances. The patient may have only minimal ability to perform gross motor skills such as running and jumping.
