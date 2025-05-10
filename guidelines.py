@@ -17,5 +17,16 @@ GUIDELINES = {
     - When repeat imaging is scheduled or just planned, it does not indicate a completed follow-up imaging.
     - "A follow-up quick brain MRI 2 days after his surgery" is not a follow-up imaging.
     - Outside imaging studies are not a follow-up imaging.
+    ''',
+    "follow_up_status": '''
+    Extract the neruologic deficit type in the notes and follow the determination guideline:
+    - Don't infer the neroulogic deficit type based on disease history. 
+    - Only extract existing deficit type directly mentioned in the notes. 
+    - Presence of anxiety, depression, or other psychiatric disorders does indicate a behavior deficit type.
+    - "high risk, c/f delays" indicates a motor deficit type.
+    - "chronic cognitive changes" indicates a cognition deficit type.
+    - If PSOM subscales have scores, corresponding subscales should be considered as neurologic deficit type.
+    - If neroulogic deficit type was resolved, return None for neurologic_deficit_type.
+    - If neroulogic deficit type is mentioned but shows normal, return None for neurologic_deficit_type.
     '''
 }

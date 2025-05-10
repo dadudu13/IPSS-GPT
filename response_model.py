@@ -29,8 +29,8 @@ class Severity(Enum):
     SEVERE = "Severe"
 
 class Deficit_type(Enum):
-    COGNITIVE = "Cognitive"
-    BEHAVIORAL = "Behavioral"
+    COGNITION = "Cognition"
+    BEHAVIOR = "Behavior"
     SPEECH = "Speech"
     MOTOR = "Motor"
 
@@ -100,16 +100,14 @@ class Neuro_Deficit_Score_Severity(BaseModel):
 
 class Neuro_Deficit_Type(BaseModel):
     '''
-    Extract the neruologic deficit type in the notes and follow the determination guideline:
-    - Don't infer the neroulogic deficit type based on disease history. 
-    - Only extract existing deficit type directly mentioned in the notes. 
-    - If neroulogic deficit type is mentioned but shows normal, return None for neurologic_deficit_type.
+    Extract the existing neruologic deficit type in the notes.
     '''
 
     neurologic_deficit_type: Optional[List[Deficit_type]] = Field(
         None, 
         description="What neurological deficit does the patient have?"
     )
+    answer_facts: List[Fact] = Field(..., description="Exact fact quotes from the note supporting the answer.")
     chain_of_thought: str = Field(
         ...,
         description="The chain of thought that led to your rate of patients neurological deficit severity.",
