@@ -107,7 +107,7 @@ class Neuro_Deficit_Type(BaseModel):
         None, 
         description="What neurological deficit does the patient have?"
     )
-    answer_facts: List[Fact] = Field(..., description="Exact fact quotes from the note supporting the answer.")
+    # answer_facts: List[Fact] = Field(..., description="Exact fact quotes from the note supporting the answer.")
     chain_of_thought: str = Field(
         ...,
         description="The chain of thought that led to your rate of patients neurological deficit severity.",

@@ -18,15 +18,29 @@ GUIDELINES = {
     - "A follow-up quick brain MRI 2 days after his surgery" is not a follow-up imaging.
     - Outside imaging studies are not a follow-up imaging.
     ''',
-    "follow_up_status": '''
-    Extract the neruologic deficit type in the notes and follow the determination guideline:
-    - Don't infer the neroulogic deficit type based on disease history. 
-    - Only extract existing deficit type directly mentioned in the notes. 
-    - Presence of anxiety, depression, or other psychiatric disorders does indicate a behavior deficit type.
-    - "high risk, c/f delays" indicates a motor deficit type.
-    - "chronic cognitive changes" indicates a cognition deficit type.
-    - If PSOM subscales have scores, corresponding subscales should be considered as neurologic deficit type.
-    - If neroulogic deficit type was resolved, return None for neurologic_deficit_type.
-    - If neroulogic deficit type is mentioned but shows normal, return None for neurologic_deficit_type.
+    
+    "Neuro_Deficit_Type": '''
+    Extract the neurologic deficit type from the clinical notes, strictly adhering to the following guidelines:
+
+    Do NOT infer neurologic deficit type from the patient's medical history. "History of" or "past medical history" should not be used to extract neurologic deficit type.
+
+    The presence of anxiety, depression, or other psychiatric disorders explicitly indicates a behavioral deficit type.
+
+    The phrases "chronic cognitive changes" or "not being able to explain work" or "decreased concentration" explicitly indicate a cognition deficit type.
+
+    The phrase "c/f delays" explicitly indicates a motor deficit type.
+
+    PSOM scores can explicitly indicate a neurologic deficit type. 
+    If sensorimotor has a score greater than 0, it indicates a motor deficit. 
+    If language production or comprehension has a score greater than 0, it indicates a speech deficit. 
+    If comprehension behavioral has a score greater than 0, it indicates a cognition or behavior deficit, which should be decided based on the whole context.
+
+    If the neurologic deficit type is explicitly mentioned as resolved, return None for neurologic_deficit_type.
+
+    If the neurologic deficit type is mentioned but explicitly described as normal, return None for neurologic_deficit_type.
+
+    If the notes suggest that the patient may have, has potential for, or is at risk of developing a neurologic deficit type, do NOT extract that type.
     '''
 }
+
+#        - 
