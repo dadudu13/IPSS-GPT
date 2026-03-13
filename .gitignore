@@ -1,0 +1,10 @@
+# Ignore text notes and note folders
+*.txt
+notes/
+notes_test/
+Deidentified_Patients.docx/
+
+# Common local/generated files
+output/
+__pycache__/
+.DS_Store
