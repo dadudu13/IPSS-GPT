@@ -8,3 +8,7 @@ Deidentified_Patients.docx/
 output/
 __pycache__/
 .DS_Store
+
+Entity_extraction_instructor.ipynb/
+entity_extractor.py/
+test.ipynb/
