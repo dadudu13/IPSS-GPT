@@ -1,6 +1,16 @@
 # IPSS-GPT
 
-This repository contains a small workflow for extracting structured pediatric stroke follow-up information from clinical notes with an LLM and exporting the results to Excel.
+This repository accompanies the paper:
+
+**Use of Large Language Model to Allow Reliable Data Acquisition for International Pediatric Stroke Study**
+
+Authors: Kriti Bhayana, MD; Dulin Wang, PhD candidate; Xiaoqian Jiang, PhD; Roshirl G. Francisco, MD; Stuart M. Fraser, MD
+
+It contains the code used to extract structured pediatric stroke follow-up information from clinical notes with a large language model and export the results to Excel for downstream review and analysis.
+
+## Repository Purpose
+
+This project supports data acquisition for the International Pediatric Stroke Study by converting unstructured clinical documentation into structured variables using LLM-based extraction with schema validation.
 
 ## What It Does
 
@@ -21,6 +31,10 @@ Current extracted entities include:
 - `guidelines.py`: task-specific extraction instructions
 - `Doc_to_txt.ipynb`: notebook for document-to-text preparation
 - `excel_to_class.ipynb`: notebook for spreadsheet-to-class experimentation
+
+## Study-Focused Outputs
+
+The current pipeline extracts structured fields related to pediatric stroke follow-up documentation, including outcome scores, neurologic deficit severity and type, follow-up imaging status, and post-discharge rehabilitation.
 
 ## Requirements
 
@@ -52,21 +66,33 @@ Ignored local files such as notebooks, outputs, cached files, and note folders a
 ## How To Run
 
 1. Put input note files in `notes/`.
-2. Review the Azure OpenAI settings in `entity_extraction_instructor.py`.
-3. Run the extractor:
+2. Configure the Azure OpenAI settings in `entity_extraction_instructor.py` before running the script.
+3. Fill in these values:
+
+- `MODEL`
+- `ENGINE`
+- `ENDPOINT`
+- `API_VERSION`
+- `API_KEY`
+4. Run the extractor:
 
 ```bash
 python entity_extraction_instructor.py
 ```
 
-4. Open the generated workbook at `output/results.xlsx`.
+5. Open the generated workbook at `output/results.xlsx`.
 
 ## Notes
-
-- The script currently uses hard-coded Azure OpenAI configuration values in `entity_extraction_instructor.py`.
+- `entity_extraction_instructor.py` contains blank placeholders that must be configured before use.
 - `N_REPEATS` controls whether the script asks the model multiple times and computes a consistency score.
 - Responses are validated against the schema definitions in `response_model.py`.
 
-## Suggested Next Step
+## Citation
 
-For safer sharing and easier deployment, move API credentials and endpoint settings out of source code and into environment variables.
+If you use this repository in academic work, please cite the associated paper:
+
+**Use of Large Language Model to Allow Reliable Data Acquisition for International Pediatric Stroke Study**
+
+## Configuration Note
+
+For safer deployment, consider loading Azure OpenAI settings from environment variables instead of filling them directly into the script.

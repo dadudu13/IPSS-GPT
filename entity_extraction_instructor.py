@@ -21,11 +21,11 @@ from response_model import (
 )
 
 
-MODEL = "gpt4o_cursor"
-ENGINE = "gpt4o_cursor"
-ENDPOINT = "https://gpt4o-xj.openai.azure.com/"
-API_VERSION = "2024-02-15-preview"
-API_KEY = "15f19bd128a54ec7b2a10f46299272ec"
+MODEL = ""
+ENGINE = ""
+ENDPOINT = ""
+API_VERSION = ""
+API_KEY = ""
 
 OUTPUT_DIRECTORY = "output/"
 NOTE_DIRECTORY = "notes/"
