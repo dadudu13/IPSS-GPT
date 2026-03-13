@@ -2,13 +2,13 @@
 *.txt
 notes/
 notes_test/
-Deidentified_Patients.docx/
+Deidentified_Patients.docx
 
 # Common local/generated files
 output/
 __pycache__/
 .DS_Store
 
-Entity_extraction_instructor.ipynb/
-entity_extractor.py/
-test.ipynb/
+Entity_extraction_instructor.ipynb
+entity_extractor.py
+test.ipynb
